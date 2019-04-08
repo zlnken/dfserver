@@ -1,0 +1,13 @@
+$#include "DFDataBaseServer.h"
+namespace DF{
+	class DataBaseServer : public BaseServer
+	{
+	public:
+		static DataBaseServer* instancePtr(void);
+		static void unintance(void);
+		bool initDataBase(const char* host, const char* user, const char* passwd, unsigned short port, const char* ip = NULL);
+		bool executeSQL(const char* sql);
+		bool executeStmt(const char* sql, UnpackMessage* unpack);
+		DataBaseMySQL* getDataBaseMySQL(void)const;
+	};
+}

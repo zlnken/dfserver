@@ -1,0 +1,241 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{1705B2F2-7B29-4B02-B779-DE4273E7B0FC}</ProjectGuid>
+    <Keyword>Win32Proj</Keyword>
+    <RootNamespace>libserver</RootNamespace>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>DynamicLibrary</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v120_xp</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>DynamicLibrary</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v120</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>DynamicLibrary</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v120</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>DynamicLibrary</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v120</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LinkIncremental>true</LinkIncremental>
+    <IncludePath>E:\boost_1_63_0;$(IncludePath)</IncludePath>
+    <LibraryPath>E:\boost_1_63_0\stage\lib;$(LibraryPath)</LibraryPath>
+    <OutDir>$(SolutionDir)/bin/$(Configuration)\</OutDir>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <LinkIncremental>true</LinkIncremental>
+    <OutDir>$(SolutionDir)/bin/$(Configuration)\</OutDir>
+    <IncludePath>E:\boost_1_63_0;$(IncludePath)</IncludePath>
+    <LibraryPath>E:\boost_1_63_0\stage\lib;$(LibraryPath)</LibraryPath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <LinkIncremental>false</LinkIncremental>
+    <IncludePath>E:\boost_1_63_0;$(IncludePath)</IncludePath>
+    <LibraryPath>E:\boost_1_63_0\stage\lib;$(LibraryPath)</LibraryPath>
+    <OutDir>$(SolutionDir)/bin/$(Configuration)\</OutDir>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <LinkIncremental>false</LinkIncremental>
+    <OutDir>$(SolutionDir)/bin/$(Configuration)\</OutDir>
+    <IncludePath>E:\boost_1_63_0;$(IncludePath)</IncludePath>
+    <LibraryPath>E:\boost_1_63_0\stage\lib;$(LibraryPath)</LibraryPath>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_WINDOWS;_USRDLL;LIBSERVER_EXPORTS;DF_DYNAMIC_LIBRARY;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <SDLCheck>true</SDLCheck>
+      <AdditionalIncludeDirectories>../;../../support/libluajit/src;../../support/libmysql;../../support/libtolua;../../support/libvld;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalDependencies>vld.lib;libtolua.lib;libserver.lib;libmysql.lib;libluajit.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_WINDOWS;_USRDLL;LIBSERVER_EXPORTS;DF_DYNAMIC_LIBRARY;_CRT_SECURE_NO_WARNINGS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <SDLCheck>true</SDLCheck>
+      <AdditionalIncludeDirectories>../;../../support;../../support/libluajit/src;../../support/libtolua;../../support/libmysql</AdditionalIncludeDirectories>
+      <DisableSpecificWarnings>4819</DisableSpecificWarnings>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalLibraryDirectories>$(OutDir)\lib</AdditionalLibraryDirectories>
+      <ImportLibrary>$(OutDir)/lib/$(TargetName).lib</ImportLibrary>
+      <AdditionalDependencies>vld.lib;libluajit.lib;libtolua.lib;libmysql.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_WINDOWS;_USRDLL;LIBSERVER_EXPORTS;DF_DYNAMIC_LIBRARY;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <SDLCheck>true</SDLCheck>
+      <AdditionalIncludeDirectories>../;../../support/libluajit/src;../../support/libmysql;../../support/libtolua;../../support/libvld;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <AdditionalDependencies>vld.lib;libtolua.lib;libserver.lib;libmysql.lib;libluajit.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_WINDOWS;_USRDLL;LIBSERVER_EXPORTS;DF_DYNAMIC_LIBRARY;_CRT_SECURE_NO_WARNINGS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <SDLCheck>true</SDLCheck>
+      <AdditionalIncludeDirectories>../;../../support;../../support/libluajit/src;../../support/libtolua;../../support/libmysql</AdditionalIncludeDirectories>
+      <DisableSpecificWarnings>4819</DisableSpecificWarnings>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <AdditionalLibraryDirectories>$(OutDir)\lib</AdditionalLibraryDirectories>
+      <ImportLibrary>$(OutDir)/lib/$(TargetName).lib</ImportLibrary>
+      <AdditionalDependencies>vld.lib;libluajit.lib;libtolua.lib;libmysql.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClInclude Include="..\DFB2.h" />
+    <ClInclude Include="..\DFB4.h" />
+    <ClInclude Include="..\DFB8.h" />
+    <ClInclude Include="..\DFBaseServer.h" />
+    <ClInclude Include="..\DFCrc32.h" />
+    <ClInclude Include="..\DFDataBaseMySQL.h" />
+    <ClInclude Include="..\DFDataBaseServer.h" />
+    <ClInclude Include="..\DFDateTime.h" />
+    <ClInclude Include="..\DFDefine.h" />
+    <ClInclude Include="..\DFGlobalIDAlloc.h" />
+    <ClInclude Include="..\DFIO.h" />
+    <ClInclude Include="..\DFLuaFunction.h" />
+    <ClInclude Include="..\DFLuaPackMessage.h" />
+    <ClInclude Include="..\DFLuaServerLib.h" />
+    <ClInclude Include="..\DFLuaStack.h" />
+    <ClInclude Include="..\DFLuaSystem.h" />
+    <ClInclude Include="..\DFLuaTrigger.h" />
+    <ClInclude Include="..\DFLuaUnpackMessage.h" />
+    <ClInclude Include="..\DFManager.h" />
+    <ClInclude Include="..\DFMessageBase.h" />
+    <ClInclude Include="..\DFNetBuffer.h" />
+    <ClInclude Include="..\DFNetConnect.h" />
+    <ClInclude Include="..\DFNetRecvBuffer.h" />
+    <ClInclude Include="..\DFNetSendBuffer.h" />
+    <ClInclude Include="..\DFNetWork.h" />
+    <ClInclude Include="..\DFPackMessage.h" />
+    <ClInclude Include="..\DFPrerequisite.h" />
+    <ClInclude Include="..\DFConfig.h" />
+    <ClInclude Include="..\DFProcess.h" />
+    <ClInclude Include="..\DFTrigger.h" />
+    <ClInclude Include="..\DFUnpackMessage.h" />
+    <ClInclude Include="..\DFUString.h" />
+    <ClInclude Include="..\fpconv.h" />
+    <ClInclude Include="..\lua_cjson.h" />
+    <ClInclude Include="..\strbuf.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\DFBaseServer.cpp" />
+    <ClCompile Include="..\DFConfig.cpp" />
+    <ClCompile Include="..\DFCrc32.cpp" />
+    <ClCompile Include="..\DFDataBaseMySQL.cpp" />
+    <ClCompile Include="..\DFDataBaseServer.cpp" />
+    <ClCompile Include="..\DFDateTime.cpp" />
+    <ClCompile Include="..\DFGlobalIDAlloc.cpp" />
+    <ClCompile Include="..\DFIO.cpp" />
+    <ClCompile Include="..\DFLuaFunction.cpp" />
+    <ClCompile Include="..\DFLuaPackMessage.cpp" />
+    <ClCompile Include="..\DFLuaServerLib.cpp" />
+    <ClCompile Include="..\DFLuaStack.cpp" />
+    <ClCompile Include="..\DFLuaSystem.cpp" />
+    <ClCompile Include="..\DFLuaTrigger.cpp" />
+    <ClCompile Include="..\DFLuaUnpackMessage.cpp" />
+    <ClCompile Include="..\DFNetBuffer.cpp" />
+    <ClCompile Include="..\DFNetConnect.cpp" />
+    <ClCompile Include="..\DFNetRecvBuffer.cpp" />
+    <ClCompile Include="..\DFNetSendBuffer.cpp" />
+    <ClCompile Include="..\DFNetWork.cpp" />
+    <ClCompile Include="..\DFPackMessage.cpp" />
+    <ClCompile Include="..\DFProcess.cpp" />
+    <ClCompile Include="..\DFTrigger.cpp" />
+    <ClCompile Include="..\DFUnpackMessage.cpp" />
+    <ClCompile Include="..\DFUString.cpp" />
+    <ClCompile Include="..\fpconv.c" />
+    <ClCompile Include="..\lua_cjson.c" />
+    <ClCompile Include="..\strbuf.c" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

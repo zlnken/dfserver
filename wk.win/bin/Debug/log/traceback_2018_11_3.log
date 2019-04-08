@@ -1,0 +1,81 @@
+----------------[2018-11-3 12:7:31]--------------------
+attempt to index a string value
+stack traceback:
+	[C]: at 0x7ffe0e5e41fb
+	[C]: in function 'loadAllFiles'
+	[string "/../../../media/script/log/LogServerCall.lua"]:48: in function 'func'
+	[string "/../../../media/script/core/CLuaTrigger.lua"]:38: in function <[string "/../../../media/script/core/CLuaTrigger.lua"]:36>
+----------------[2018-11-3 14:47:41]--------------------
+
+	[C]: in function 'instance'
+	[string "/../../../media/script/log/LogServerCall.lua"]:51: in function 'func'
+	[string "/../../../media/script/core/CLuaTrigger.lua"]:38: in function <[string "/../../../media/script/core/CLuaTrigger.lua"]:36>
+stack traceback:
+	[C]: in function 'instance'
+	[string "/../../../media/script/log/LogServerCall.lua"]:51: in function 'func'
+	[string "/../../../media/script/core/CLuaTrigger.lua"]:38: in function <[string "/../../../media/script/core/CLuaTrigger.lua"]:36>
+----------------[2018-11-3 14:50:3]--------------------
+tring "/../../../media/script/core/CLuaTrigger.lua"]:36> attempt to index local 'f' (a nil value)
+stack traceback:
+	[C]: in function '__index'
+	[string "/../../../media/script/log/LuaFileMgr.lua"]:56: in function 'loadFile'
+	[string "/../../../media/script/log/LogServerCall.lua"]:51: in function 'func'
+	[string "/../../../media/script/core/CLuaTrigger.lua"]:38: in function <[string "/../../../media/script/core/CLuaTrigger.lua"]:36>
+----------------[2018-11-3 14:50:21]--------------------
+[string "/../../../media/script/log/LuaFileMgr.lua"]:60: bad argument #1 to 'gsub' (string expected, got nil)
+stack traceback:
+	[C]: at 0x7ffe111841fb
+	[C]: in function 'gsub'
+	[string "/../../../media/script/log/LuaFileMgr.lua"]:60: in function 'loadFile'
+	[string "/../../../media/script/log/LogServerCall.lua"]:51: in function 'func'
+	[string "/../../../media/script/core/CLuaTrigger.lua"]:38: in function <[string "/../../../media/script/core/CLuaTrigger.lua"]:36>
+----------------[2018-11-3 14:52:24]--------------------
+[string "/../../../media/script/log/LuaFileMgr.lua"]:59: bad argument #2 to 'find' (string expected, got no value)
+stack traceback:
+	[C]: at 0x7ffe111841fb
+	[C]: in function 'find'
+	[string "/../../../media/script/log/LuaFileMgr.lua"]:59: in function 'loadFile'
+	[string "/../../../media/script/log/LogServerCall.lua"]:51: in function 'func'
+	[string "/../../../media/script/core/CLuaTrigger.lua"]:38: in function <[string "/../../../media/script/core/CLuaTrigger.lua"]:36>
+----------------[2018-11-3 15:20:17]--------------------
+	[string "/../../../media/script/log/LogServerCall.lua"]:52: in function 'func'
+	[string "/../../../media/script/core/CLuaTrigger.lua"]:38: in function <[string "/../../../media/script/core/CLuaTrigger.lua"]:36>
+stack traceback:
+	[C]: at 0x7ffe10f041fb
+	[C]: in function 'pairs'
+	[string "/../../../media/script/log/LuaFileMgr.lua"]:75: in function 'dumpAllFiles'
+	[string "/../../../media/script/log/LogServerCall.lua"]:52: in function 'func'
+	[string "/../../../media/script/core/CLuaTrigger.lua"]:38: in function <[string "/../../../media/script/core/CLuaTrigger.lua"]:36>
+----------------[2018-11-3 15:20:50]--------------------
+3
+stack traceback:
+	[C]: at 0x7ffe10f041fb
+	[C]: in function 'pairs'
+	[string "/../../../media/script/log/LuaFileMgr.lua"]:76: in function 'dumpAllFiles'
+	[string "/../../../media/script/log/LogServerCall.lua"]:52: in function 'func'
+	[string "/../../../media/script/core/CLuaTrigger.lua"]:38: in function <[string "/../../../media/script/core/CLuaTrigger.lua"]:36>
+----------------[2018-11-3 15:21:4]--------------------
+	[string "/../../../media/script/log/LogServerCall.lua"]:52: in function 'func'
+	[string "/../../../media/script/core/CLuaTrigger.lua"]:38: in function <[string "/../../../media/script/core/CLuaTrigger.lua"]:36>
+stack traceback:
+	[C]: at 0x7ffe10de41fb
+	[C]: in function 'pairs'
+	[string "/../../../media/script/log/LuaFileMgr.lua"]:76: in function 'dumpAllFiles'
+	[string "/../../../media/script/log/LogServerCall.lua"]:52: in function 'func'
+	[string "/../../../media/script/core/CLuaTrigger.lua"]:38: in function <[string "/../../../media/script/core/CLuaTrigger.lua"]:36>
+----------------[2018-11-3 15:21:31]--------------------
+../media/script/log/LogServerCall.lua"]:52: in function 'func'
+	[string "/../../../media/script/core/CLuaTrigger.lua"]:38: in function <[string "/../../../media/script/core/CLuaTrigger.lua"]:36>
+stack traceback:
+	[C]: in function 'dumpAllFiles'
+	[string "/../../../media/script/log/LuaFileMgr.lua"]:70: in function 'loadAllFiles'
+	[string "/../../../media/script/log/LogServerCall.lua"]:52: in function 'func'
+	[string "/../../../media/script/core/CLuaTrigger.lua"]:38: in function <[string "/../../../media/script/core/CLuaTrigger.lua"]:36>
+----------------[2018-11-3 15:23:35]--------------------
+attempt to index a string value
+stack traceback:
+	[C]: at 0x7ffe10f041fb
+	[C]: in function 'loadAllFiles'
+	[string "/../../../media/script/log/LuaFileMgr.lua"]:68: in function 'loadAllFiles'
+	[string "/../../../media/script/log/LogServerCall.lua"]:52: in function 'func'
+	[string "/../../../media/script/core/CLuaTrigger.lua"]:38: in function <[string "/../../../media/script/core/CLuaTrigger.lua"]:36>

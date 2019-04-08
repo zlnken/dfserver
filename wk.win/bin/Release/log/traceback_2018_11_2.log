@@ -1,0 +1,18 @@
+----------------[2018-11-2 17:15:15]--------------------
+ in function <[string "/../../../media/script/core/CLuaTrigger.lua"]:36>
+stack traceback:
+	[C]: in function '__index'
+	[string "/../../../media/script/enum/SafeTableEnums.lua"]:8: in main chunk
+	[C]: in function 'require'
+	[string "/../../../media/script/core/RoleManager.lua"]:13: in main chunk
+	[C]: in function 'require'
+	[string "/../../../media/script/gm/GameMaster.lua"]:4: in main chunk
+	[C]: in function 'require'
+	[string "/../../../media/script/log/LogServerCall.lua"]:46: in function 'func'
+	[string "/../../../media/script/core/CLuaTrigger.lua"]:38: in function <[string "/../../../media/script/core/CLuaTrigger.lua"]:36>
+----------------[2018-11-2 17:16:41]--------------------
+/script/core/CLuaTrigger.lua"]:38: in function <[string "/../../../media/script/core/CLuaTrigger.lua"]:36>e)
+stack traceback:
+	[C]: in function 'sendBytes'
+	[string "/../../../media/script/log/LogServerCall.lua"]:46: in function 'func'
+	[string "/../../../media/script/core/CLuaTrigger.lua"]:38: in function <[string "/../../../media/script/core/CLuaTrigger.lua"]:36>

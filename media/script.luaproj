@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>E439935D-B2A2-46AE-856D-2AA408428F33</ProjectGuid>
+    <!--$guid1$-->
+    <ProjectHome>.</ProjectHome>
+    <StartupFile>
+    </StartupFile>
+    <SearchPath>
+    </SearchPath>
+    <WorkingDirectory>.</WorkingDirectory>
+    <OutputPath>.</OutputPath>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <ItemGroup>
+    <Folder Include="script\" />
+    <Folder Include="script\common\" />
+    <Folder Include="script\core\" />
+    <Folder Include="script\db\" />
+    <Folder Include="script\enum\" />
+    <Folder Include="script\gm\" />
+    <Folder Include="script\logic\" />
+    <Folder Include="script\login\" />
+    <Folder Include="script\tools\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="script\common\functions.lua" />
+    <Compile Include="script\common\json.lua" />
+    <Compile Include="script\core\CLuaTrigger.lua" />
+    <Compile Include="script\core\EventTrigger.lua" />
+    <Compile Include="script\core\FilesManager.lua" />
+    <Compile Include="script\core\MessageCall.lua" />
+    <Compile Include="script\core\Role.lua" />
+    <Compile Include="script\core\RoleManager.lua" />
+    <Compile Include="script\core\RuleManager.lua" />
+    <Compile Include="script\core\SafeTable.lua" />
+    <Compile Include="script\core\ServerConfig.lua" />
+    <Compile Include="script\db\DataBaseMsgCall.lua" />
+    <Compile Include="script\db\DataBaseMsgData.lua" />
+    <Compile Include="script\db\DataBaseServerCall.lua" />
+    <Compile Include="script\db\DataBaseSQLConfig.lua" />
+    <Compile Include="script\enum\EventEnums.lua" />
+    <Compile Include="script\enum\MessageEnums.lua" />
+    <Compile Include="script\enum\ObjectEnums.lua" />
+    <Compile Include="script\enum\SafeTableEnums.lua" />
+    <Compile Include="script\enum\ValueEnums.lua" />
+    <Compile Include="script\gm\GameMaster.lua" />
+    <Compile Include="script\logic\LogicServerCall.lua" />
+    <Compile Include="script\logic\RoleMailsMsgCall.lua" />
+    <Compile Include="script\login\LoginMsgCall.lua" />
+    <Compile Include="script\login\LoginMsgData.lua" />
+    <Compile Include="script\login\LoginServerCall.lua" />
+    <Compile Include="script\tools\ToolSendStringFile.lua" />
+    <Compile Include="script\tools\ToolsServerCall.lua" />
+    <Compile Include="script\tools\ToolsLuaFileMgr.lua" />
+    <Compile Include="script\tools\ToolsNetLuaFiles.lua" />
+    <Compile Include="script\tools\ToolsServerGM.lua" />
+    <Compile Include="script\tools\ToolsServerMsg.lua" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.Common.targets" />
+</Project>

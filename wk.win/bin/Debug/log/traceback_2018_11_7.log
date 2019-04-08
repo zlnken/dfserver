@@ -1,0 +1,21 @@
+----------------[2018-11-7 15:29:49]--------------------
+ in function <[string "/../../../media/script/core/CLuaTrigger.lua"]:36>
+stack traceback:
+	[C]: in function '__concat'
+	[string "/../../../media/script/tools/ToolsNetLuaFiles..."]:87: in function 'sendLoadString'
+	[string "/../../../media/script/tools/ToolsNetLuaFiles..."]:139: in function 'ssendLoadString'
+	[string "/../../../media/script/tools/ToolsServerGM.lua"]:34: in function 'gmSendLoadString'
+	[string "/../../../media/script/tools/ToolsServerGM.lua"]:40: in function 'run'
+	[string "/../../../media/script/tools/ToolsServerCall.lua"]:46: in function 'func'
+	[string "/../../../media/script/core/CLuaTrigger.lua"]:38: in function <[string "/../../../media/script/core/CLuaTrigger.lua"]:36>
+----------------[2018-11-7 15:31:20]--------------------
+[string "/../../../media/script/tools/ToolsNetLuaFiles..."]:88: bad argument #1 to 'len' (string expected, got nê
+stack traceback:
+	[C]: at 0x7ffb52ac4200
+	[builtin:len]: in function 'len'
+	[string "/../../../media/script/tools/ToolsNetLuaFiles..."]:88: in function 'sendLoadString'
+	[string "/../../../media/script/tools/ToolsNetLuaFiles..."]:139: in function 'ssendLoadString'
+	[string "/../../../media/script/tools/ToolsServerGM.lua"]:34: in function 'gmSendLoadString'
+	[string "/../../../media/script/tools/ToolsServerGM.lua"]:42: in function 'run'
+	[string "/../../../media/script/tools/ToolsServerCall.lua"]:46: in function 'func'
+	[string "/../../../media/script/core/CLuaTrigger.lua"]:38: in function <[string "/../../../media/script/core/CLuaTrigger.lua"]:36>

@@ -1,0 +1,14 @@
+$#include "DFNetConnect.h"
+namespace DF{
+	class NetConnect
+	{
+	public:
+		bool isShutdown(void)const;
+		unsigned int getSessionID(void)const;
+		unsigned int getConnectTime(void)const;
+		const char* getIP(void)const;
+		unsigned short getPort(void)const;
+		unsigned int getWho(void)const;
+		void sendBytes(const char* pHead, unsigned short uSize);
+	};
+}

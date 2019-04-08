@@ -1,0 +1,30 @@
+$#include "DFDateTime.h"
+namespace DF{
+	class DateTime
+	{
+	public:
+		unsigned int year(void)const;
+		unsigned int month(void)const;
+		unsigned int day(void)const;
+		unsigned int hour(void)const;
+		unsigned int minute(void)const;
+		unsigned int second(void)const;
+		unsigned int milliseSecond(void)const;
+
+		unsigned int days(void)const;
+		unsigned int weeks(void)const;
+		unsigned int months(void)const;
+
+		unsigned int yearDay(void)const;
+		unsigned int monthDay(void)const;
+		unsigned int weekDay(void)const;
+
+		unsigned int seconds(void)const;
+		
+		unsigned int getUnixTime(void)const;
+		unsigned int timeZoneSeconds(void);
+
+		void setUnixTime(unsigned int uUnixTime);
+		void setTimeSpeed(unsigned int uTimeSpeed);
+	};
+}

@@ -1,0 +1,211 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="core">
+      <UniqueIdentifier>{e31dfae0-5553-4ec5-8291-00c94381bb67}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="lua">
+      <UniqueIdentifier>{8061fbaf-f6f4-43f0-80de-103f3b13a60f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="mysql">
+      <UniqueIdentifier>{d0547a03-eb9a-4c37-8e44-fa5c2a64c83e}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\DFB2.h">
+      <Filter>core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\DFB4.h">
+      <Filter>core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\DFB8.h">
+      <Filter>core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\DFConfig.h">
+      <Filter>core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\DFDateTime.h">
+      <Filter>core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\DFDefine.h">
+      <Filter>core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\DFIO.h">
+      <Filter>core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\DFMessageBase.h">
+      <Filter>core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\DFNetBuffer.h">
+      <Filter>core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\DFNetConnect.h">
+      <Filter>core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\DFNetRecvBuffer.h">
+      <Filter>core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\DFNetSendBuffer.h">
+      <Filter>core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\DFNetWork.h">
+      <Filter>core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\DFPackMessage.h">
+      <Filter>core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\DFPrerequisite.h">
+      <Filter>core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\DFProcess.h">
+      <Filter>core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\DFUnpackMessage.h">
+      <Filter>core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\DFLuaFunction.h">
+      <Filter>lua</Filter>
+    </ClInclude>
+    <ClInclude Include="..\DFLuaStack.h">
+      <Filter>lua</Filter>
+    </ClInclude>
+    <ClInclude Include="..\DFLuaSystem.h">
+      <Filter>lua</Filter>
+    </ClInclude>
+    <ClInclude Include="..\DFLuaTrigger.h">
+      <Filter>lua</Filter>
+    </ClInclude>
+    <ClInclude Include="..\DFTrigger.h">
+      <Filter>core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\DFManager.h">
+      <Filter>core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\DFCrc32.h">
+      <Filter>core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\DFLuaUnpackMessage.h">
+      <Filter>lua</Filter>
+    </ClInclude>
+    <ClInclude Include="..\DFLuaPackMessage.h">
+      <Filter>lua</Filter>
+    </ClInclude>
+    <ClInclude Include="..\DFGlobalIDAlloc.h">
+      <Filter>core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\DFLuaServerLib.h">
+      <Filter>lua</Filter>
+    </ClInclude>
+    <ClInclude Include="..\DFDataBaseMySQL.h">
+      <Filter>mysql</Filter>
+    </ClInclude>
+    <ClInclude Include="..\DFDataBaseServer.h">
+      <Filter>core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\fpconv.h">
+      <Filter>lua</Filter>
+    </ClInclude>
+    <ClInclude Include="..\lua_cjson.h">
+      <Filter>lua</Filter>
+    </ClInclude>
+    <ClInclude Include="..\strbuf.h">
+      <Filter>lua</Filter>
+    </ClInclude>
+    <ClInclude Include="..\DFBaseServer.h">
+      <Filter>core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\DFUString.h">
+      <Filter>core</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\DFUnpackMessage.cpp">
+      <Filter>core</Filter>
+    </ClCompile>
+    <ClCompile Include="..\DFConfig.cpp">
+      <Filter>core</Filter>
+    </ClCompile>
+    <ClCompile Include="..\DFDateTime.cpp">
+      <Filter>core</Filter>
+    </ClCompile>
+    <ClCompile Include="..\DFIO.cpp">
+      <Filter>core</Filter>
+    </ClCompile>
+    <ClCompile Include="..\DFNetBuffer.cpp">
+      <Filter>core</Filter>
+    </ClCompile>
+    <ClCompile Include="..\DFNetConnect.cpp">
+      <Filter>core</Filter>
+    </ClCompile>
+    <ClCompile Include="..\DFNetRecvBuffer.cpp">
+      <Filter>core</Filter>
+    </ClCompile>
+    <ClCompile Include="..\DFNetSendBuffer.cpp">
+      <Filter>core</Filter>
+    </ClCompile>
+    <ClCompile Include="..\DFNetWork.cpp">
+      <Filter>core</Filter>
+    </ClCompile>
+    <ClCompile Include="..\DFPackMessage.cpp">
+      <Filter>core</Filter>
+    </ClCompile>
+    <ClCompile Include="..\DFProcess.cpp">
+      <Filter>core</Filter>
+    </ClCompile>
+    <ClCompile Include="..\DFLuaFunction.cpp">
+      <Filter>lua</Filter>
+    </ClCompile>
+    <ClCompile Include="..\DFLuaStack.cpp">
+      <Filter>lua</Filter>
+    </ClCompile>
+    <ClCompile Include="..\DFLuaSystem.cpp">
+      <Filter>lua</Filter>
+    </ClCompile>
+    <ClCompile Include="..\DFLuaTrigger.cpp">
+      <Filter>lua</Filter>
+    </ClCompile>
+    <ClCompile Include="..\DFTrigger.cpp">
+      <Filter>core</Filter>
+    </ClCompile>
+    <ClCompile Include="..\DFCrc32.cpp">
+      <Filter>core</Filter>
+    </ClCompile>
+    <ClCompile Include="..\DFLuaUnpackMessage.cpp">
+      <Filter>lua</Filter>
+    </ClCompile>
+    <ClCompile Include="..\DFLuaPackMessage.cpp">
+      <Filter>lua</Filter>
+    </ClCompile>
+    <ClCompile Include="..\DFGlobalIDAlloc.cpp">
+      <Filter>core</Filter>
+    </ClCompile>
+    <ClCompile Include="..\DFLuaServerLib.cpp">
+      <Filter>lua</Filter>
+    </ClCompile>
+    <ClCompile Include="..\DFDataBaseMySQL.cpp">
+      <Filter>mysql</Filter>
+    </ClCompile>
+    <ClCompile Include="..\DFDataBaseServer.cpp">
+      <Filter>core</Filter>
+    </ClCompile>
+    <ClCompile Include="..\fpconv.c">
+      <Filter>lua</Filter>
+    </ClCompile>
+    <ClCompile Include="..\lua_cjson.c">
+      <Filter>lua</Filter>
+    </ClCompile>
+    <ClCompile Include="..\strbuf.c">
+      <Filter>lua</Filter>
+    </ClCompile>
+    <ClCompile Include="..\DFBaseServer.cpp">
+      <Filter>core</Filter>
+    </ClCompile>
+    <ClCompile Include="..\DFUString.cpp">
+      <Filter>core</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,53 @@
+$#include "DFBaseServer.h"
+namespace DF{
+	class BaseServer
+	{
+	public:
+		enum BaseServerTriggerEnum
+		{
+			BSTE_OnStar,
+			BSTE_OnLost,
+			BSTE_OnMsg,
+			BSTE_BeforeNewMinute,
+			BSTE_BeforeNewHour,
+			BSTE_BeforeNewDay,
+			BSTE_AfterNewMinute,
+			BSTE_AfterNewHour,
+			BSTE_AfterNewDay,
+			BSTE_PerSecond,
+			BSTE_KeyboardKeyDown,
+			BSTE_MaxCount
+		};
+
+	public:
+		void sendPackMsg(unsigned int uSessionID);
+		void sendObject(unsigned int uSessionID, unsigned short uMsgType);
+		
+		void sendBytes(unsigned int uSessionID, const char* pHead, unsigned short uSize);
+		void sendWhoPackMsg(unsigned int uWho);
+		void sendWhoObject(unsigned int uWho, unsigned short uMsgType);
+
+		bool connect(const char* ip, unsigned int uPort, unsigned short uWho);
+
+		bool disConnect(unsigned int uSessionID);
+		bool hasConnect(unsigned int uSessionID)const;
+		bool isSendOver(unsigned int uSessionID)const;
+
+		void setWorld(unsigned short uWorld);
+		double allocGloablID(void);
+
+		PackMessage* getPackMessage(void)const;
+		UnpackMessage* getUnpackMessage(void)const;
+
+		void setPackMessage(PackMessage* pPackMsg);
+		void setUnpackMessage(UnpackMessage* pUnpackMsg);
+
+		NetConnect* getCurNetConnect(void)const;
+		Process* getProcess(void);
+		DateTime* getDateTime(void);
+		const char* getIP(void)const;
+		unsigned short getProt(void)const;
+
+		void setTrigger(BaseServerTriggerEnum eType, Trigger* pTrigger);
+	};
+}

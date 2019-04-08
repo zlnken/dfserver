@@ -1,0 +1,28 @@
+$#include "DFPackMessage.h"
+namespace DF{
+	class PackMessage
+	{
+		void packType(unsigned short uType);
+		void packMsg(MessageBase* pMsg);
+		void packBytes(char* pHead, unsigned short uSize);
+		void packInt8(char i8);
+		void packInt16(short i16);
+		void packInt32(int i32);
+		
+		void packUint8(unsigned char ui8);
+		void packUint16(unsigned short ui16);
+		void packUint32(unsigned int ui32);
+		void packFloat(float f);
+		void packDouble(double d);
+		void packValue(double d);
+		void packInt(int d);
+		void packDict(unsigned short uSize);
+		void packString(const char* v);
+		void packObject(void);
+
+		bool getIsOK(void)const;
+		unsigned int getTotalBodySize(void)const;
+		unsigned int getCurrentEmptySize(void)const;
+		MessageBase* getMsg(void)const;
+	};
+}

@@ -1,0 +1,15 @@
+----------------[2018-1-32 10:8:55]--------------------
+
+stack traceback:
+	[C]: at 0x7ffd25b94700
+	[C]: in function 'require'
+	[string "/../../../media/script/logic/LogicServerCall.lua"]:141: in function 'func'
+	[string "/../../../media/script/core/CLuaTrigger.lua"]:38: in function <[string "/../../../media/script/core/CLuaTrigger.lua"]:36>
+----------------[2018-1-32 10:15:42]--------------------
+[string "/../../../media/script/core/SafeTable.lua"]:81: attempt to index local 'self' (a nil value)
+stack traceback:
+	[C]: in function '__index'
+	[string "/../../../media/script/core/SafeTable.lua"]:81: in function 'save'
+	[string "/../../../media/script/gm/GameMaster.lua"]:191: in function 'runScript'
+	[string "/../../../media/script/logic/LogicServerCall.lua"]:143: in function 'func'
+	[string "/../../../media/script/core/CLuaTrigger.lua"]:38: in function <[string "/../../../media/script/core/CLuaTrigger.lua"]:36>

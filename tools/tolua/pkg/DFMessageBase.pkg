@@ -1,0 +1,14 @@
+$#include "DFMessageBase.h"
+namespace DF{
+	class MessageBase
+	{
+	public:
+		unsigned short getSize(void) const;
+		void setSize(unsigned short uSize);
+		void addSize(unsigned short uSize);
+		unsigned short getType(void) const;
+		void* getBody(void);
+		unsigned short getBodySize(void)const;
+		void align(void);
+	};
+}

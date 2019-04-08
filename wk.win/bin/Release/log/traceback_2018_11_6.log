@@ -1,0 +1,7 @@
+----------------[2018-11-6 17:54:45]--------------------
+[string "/../../../media/script/log/NetLuaFiles.lua"]:44: attempt to call global 'printIn' (a nil value)
+stack traceback:
+	[C]: in function 'printIn'
+	[string "/../../../media/script/log/NetLuaFiles.lua"]:44: in function 'updateLuaFile'
+	[string "/../../../media/script/log/LogServerCall.lua"]:75: in function 'func'
+	[string "/../../../media/script/core/CLuaTrigger.lua"]:38: in function <[string "/../../../media/script/core/CLuaTrigger.lua"]:36>

@@ -1,0 +1,21 @@
+$#include "DFDataBaseMySQL.h"
+namespace DF{
+	class DataBaseMySQL
+	{
+	public:
+		bool execute(const char* sql, PackMessage* pPackMsg = NULL);
+		bool executeStmt(const char* sql, UnpackMessage* unpack);
+
+		bool initStmt(const char* sql);
+		void pushString(const char* val);
+		void pushBlob(const char* val, unsigned int len);
+		void pushData(int type, const char* data, unsigned int len = 0);
+		bool executeStmt(void);
+
+		const char* getUser(void)const;
+		const char* getPassword(void)const;
+		const char* getHost(void)const;
+		const char* getIP(void)const;
+		unsigned short getPort(void)const;
+	};
+}

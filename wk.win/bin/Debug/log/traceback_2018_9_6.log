@@ -1,0 +1,6 @@
+----------------[2018-9-6 18:5:3]--------------------
+[string "/../../../media/script/logic/LogicServerCall.lua"]:156: attempt to index local 'msgCall' (a nil value)
+stack traceback:
+	[C]: in function '__index'
+	[string "/../../../media/script/logic/LogicServerCall.lua"]:156: in function 'func'
+	[string "/../../../media/script/core/CLuaTrigger.lua"]:38: in function <[string "/../../../media/script/core/CLuaTrigger.lua"]:36>

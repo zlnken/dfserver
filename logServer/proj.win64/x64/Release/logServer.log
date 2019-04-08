@@ -1,0 +1,15 @@
+﻿Build started 2019/2/25 21:23:53.
+     1>Project "E:\dfserver\logServer\proj.win64\logServer.vcxproj" on node 2 (Build target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(388,5): warning MSB8028: The intermediate directory (x64\Release\) contains files shared from another project (loginServer.vcxproj, logServer.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"E:\dfserver\wk.win\/bin/Release\toolsServer.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:E:\dfserver\wk.win\/bin/Release\\lib libserver.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\dfserver\wk.win\/bin/Release\toolsServer.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\dfserver\wk.win\/bin/Release\toolsServer.lib" /MACHINE:X64 x64\Release\ToolsServer.obj
+         x64\Release\main.obj
+         E:\dfserver\wk.win\bin\Release\lib\libserver.lib
+         Generating code
+         Finished generating code
+         logServer.vcxproj -> E:\dfserver\wk.win\/bin/Release\toolsServer.exe
+     1>Done Building Project "E:\dfserver\logServer\proj.win64\logServer.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:09.96

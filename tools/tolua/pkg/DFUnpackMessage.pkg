@@ -1,0 +1,24 @@
+$#include "DFUnpackMessage.h"
+namespace DF{
+	class UnpackMessage
+	{
+	public:
+		void reset(MessageBase* pMsg);
+		bool unpackMsg(unsigned int uSize = 4);
+		char unpackInt8(void);
+		short unpackInt16(void);
+		int unpackInt32(void);
+		unsigned char unpackUint8(void);
+		unsigned short unpackUint16(void);
+		unsigned int unpackUint32(void);
+		float unpackFloat(void);
+		double unpackDouble(void);
+		double unpackValue(void);
+		char* unpackStream(unsigned short uSize);
+		const char* unpackString(void);
+		char* getUnpackFence(void);
+		unsigned int getSurplusSize(void);
+		bool getIsOk(void);
+		virtual void unpackObject(void);
+	};
+}

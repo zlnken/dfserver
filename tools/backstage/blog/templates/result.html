@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+	<style> 
+		body{text-align:center} 
+	</style> 
+	<body>
+		<br>
+		<br>
+		<form action="" method="get">
+	  		<table border="1" align=center>
+	  			{% for line in lines %}
+	  				<tr>
+	  					{% for val in line %}
+	  						<td> {{val}} </td>
+	  					{% endfor %}
+	  				</tr>	
+	  			{% endfor %}
+	  		</table>
+		</form>
+	</body>
+</html>

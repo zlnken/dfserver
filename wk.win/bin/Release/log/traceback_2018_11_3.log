@@ -1,0 +1,545 @@
+----------------[2018-11-3 17:53:10]--------------------
+[string "/../../../media/script/common/json.lua"]:304: String decoding failed: unterminated string at position 5�
+stack traceback:
+	[C]: at 0x7ffe1ab74570
+	[C]: in function 'assert'
+	[string "/../../../media/script/common/json.lua"]:304: in function 'decode'
+	[string "/../../../media/script/common/json.lua"]:270: in function 'decode'
+	[string "/../../../media/script/log/LogServerCall.lua"]:65: in function 'func'
+	[string "/../../../media/script/core/CLuaTrigger.lua"]:38: in function <[string "/../../../media/script/core/CLuaTrigger.lua"]:36>
+----------------[2018-11-3 17:53:14]--------------------
+[string "/../../../media/script/common/json.lua"]:304: String decoding failed: unterminated string at position 22
+stack traceback:
+	[C]: at 0x7ffe1ab74570
+	[C]: in function 'assert'
+	[string "/../../../media/script/common/json.lua"]:304: in function 'decode'
+	[string "/../../../media/script/common/json.lua"]:270: in function 'decode'
+	[string "/../../../media/script/log/LogServerCall.lua"]:65: in function 'func'
+	[string "/../../../media/script/core/CLuaTrigger.lua"]:38: in function <[string "/../../../media/script/core/CLuaTrigger.lua"]:36>
+----------------[2018-11-3 17:53:20]--------------------
+[string "/../../../media/script/common/json.lua"]:304: String decoding failed: unterminated string at position 22
+stack traceback:
+	[C]: at 0x7ffe1ab74570
+	[C]: in function 'assert'
+	[string "/../../../media/script/common/json.lua"]:304: in function 'decode'
+	[string "/../../../media/script/common/json.lua"]:270: in function 'decode'
+	[string "/../../../media/script/log/LogServerCall.lua"]:65: in function 'func'
+	[string "/../../../media/script/core/CLuaTrigger.lua"]:38: in function <[string "/../../../media/script/core/CLuaTrigger.lua"]:36>
+----------------[2018-11-3 17:53:20]--------------------
+[string "/../../../media/script/common/json.lua"]:304: String decoding failed: unterminated string at position 34
+stack traceback:
+	[C]: at 0x7ffe1ab74570
+	[C]: in function 'assert'
+	[string "/../../../media/script/common/json.lua"]:304: in function 'decode'
+	[string "/../../../media/script/common/json.lua"]:270: in function 'decode'
+	[string "/../../../media/script/log/LogServerCall.lua"]:65: in function 'func'
+	[string "/../../../media/script/core/CLuaTrigger.lua"]:38: in function <[string "/../../../media/script/core/CLuaTrigger.lua"]:36>
+----------------[2018-11-3 17:53:20]--------------------
+[string "/../../../media/script/common/json.lua"]:304: String decoding failed: unterminated string at position 3�
+stack traceback:
+	[C]: at 0x7ffe1ab74570
+	[C]: in function 'assert'
+	[string "/../../../media/script/common/json.lua"]:304: in function 'decode'
+	[string "/../../../media/script/common/json.lua"]:270: in function 'decode'
+	[string "/../../../media/script/log/LogServerCall.lua"]:65: in function 'func'
+	[string "/../../../media/script/core/CLuaTrigger.lua"]:38: in function <[string "/../../../media/script/core/CLuaTrigger.lua"]:36>
+----------------[2018-11-3 17:53:20]--------------------
+[string "/../../../media/script/common/json.lua"]:304: String decoding failed: unterminated string at position 28
+stack traceback:
+	[C]: at 0x7ffe1ab74570
+	[C]: in function 'assert'
+	[string "/../../../media/script/common/json.lua"]:304: in function 'decode'
+	[string "/../../../media/script/common/json.lua"]:270: in function 'decode'
+	[string "/../../../media/script/log/LogServerCall.lua"]:65: in function 'func'
+	[string "/../../../media/script/core/CLuaTrigger.lua"]:38: in function <[string "/../../../media/script/core/CLuaTrigger.lua"]:36>
+----------------[2018-11-3 17:53:20]--------------------
+[string "/../../../media/script/common/json.lua"]:304: String decoding failed: unterminated string at position 28
+stack traceback:
+	[C]: at 0x7ffe1ab74570
+	[C]: in function 'assert'
+	[string "/../../../media/script/common/json.lua"]:304: in function 'decode'
+	[string "/../../../media/script/common/json.lua"]:270: in function 'decode'
+	[string "/../../../media/script/log/LogServerCall.lua"]:65: in function 'func'
+	[string "/../../../media/script/core/CLuaTrigger.lua"]:38: in function <[string "/../../../media/script/core/CLuaTrigger.lua"]:36>
+----------------[2018-11-3 17:53:21]--------------------
+[string "/../../../media/script/common/json.lua"]:304: String decoding failed: unterminated string at position 4�
+stack traceback:
+	[C]: at 0x7ffe1ab74570
+	[C]: in function 'assert'
+	[string "/../../../media/script/common/json.lua"]:304: in function 'decode'
+	[string "/../../../media/script/common/json.lua"]:270: in function 'decode'
+	[string "/../../../media/script/log/LogServerCall.lua"]:65: in function 'func'
+	[string "/../../../media/script/core/CLuaTrigger.lua"]:38: in function <[string "/../../../media/script/core/CLuaTrigger.lua"]:36>
+----------------[2018-11-3 17:53:21]--------------------
+[string "/../../../media/script/common/json.lua"]:304: String decoding failed: unterminated string at position 45
+stack traceback:
+	[C]: at 0x7ffe1ab74570
+	[C]: in function 'assert'
+	[string "/../../../media/script/common/json.lua"]:304: in function 'decode'
+	[string "/../../../media/script/common/json.lua"]:270: in function 'decode'
+	[string "/../../../media/script/log/LogServerCall.lua"]:65: in function 'func'
+	[string "/../../../media/script/core/CLuaTrigger.lua"]:38: in function <[string "/../../../media/script/core/CLuaTrigger.lua"]:36>
+----------------[2018-11-3 17:53:26]--------------------
+[string "/../../../media/script/common/json.lua"]:304: String decoding failed: unterminated string at position 22
+stack traceback:
+	[C]: at 0x7ffe1ab74570
+	[C]: in function 'assert'
+	[string "/../../../media/script/common/json.lua"]:304: in function 'decode'
+	[string "/../../../media/script/common/json.lua"]:270: in function 'decode'
+	[string "/../../../media/script/log/LogServerCall.lua"]:65: in function 'func'
+	[string "/../../../media/script/core/CLuaTrigger.lua"]:38: in function <[string "/../../../media/script/core/CLuaTrigger.lua"]:36>
+----------------[2018-11-3 17:53:31]--------------------
+[string "/../../../media/script/common/json.lua"]:304: String decoding failed: unterminated string at position 22
+stack traceback:
+	[C]: at 0x7ffe1ab74570
+	[C]: in function 'assert'
+	[string "/../../../media/script/common/json.lua"]:304: in function 'decode'
+	[string "/../../../media/script/common/json.lua"]:270: in function 'decode'
+	[string "/../../../media/script/log/LogServerCall.lua"]:65: in function 'func'
+	[string "/../../../media/script/core/CLuaTrigger.lua"]:38: in function <[string "/../../../media/script/core/CLuaTrigger.lua"]:36>
+----------------[2018-11-3 17:53:37]--------------------
+[string "/../../../media/script/common/json.lua"]:304: String decoding failed: unterminated string at position 36
+stack traceback:
+	[C]: at 0x7ffe1ab74570
+	[C]: in function 'assert'
+	[string "/../../../media/script/common/json.lua"]:304: in function 'decode'
+	[string "/../../../media/script/common/json.lua"]:270: in function 'decode'
+	[string "/../../../media/script/log/LogServerCall.lua"]:65: in function 'func'
+	[string "/../../../media/script/core/CLuaTrigger.lua"]:38: in function <[string "/../../../media/script/core/CLuaTrigger.lua"]:36>
+----------------[2018-11-3 17:53:37]--------------------
+ in function <[string "/../../../media/script/core/CLuaTrigger.lua"]:36>
+stack traceback:
+	[C]: at 0x7ffe1ab74570
+	[C]: in function 'assert'
+	[string "/../../../media/script/common/json.lua"]:304: in function 'decode'
+	[string "/../../../media/script/common/json.lua"]:270: in function 'decode'
+	[string "/../../../media/script/log/LogServerCall.lua"]:65: in function 'func'
+	[string "/../../../media/script/core/CLuaTrigger.lua"]:38: in function <[string "/../../../media/script/core/CLuaTrigger.lua"]:36>
+----------------[2018-11-3 17:53:37]--------------------
+[string "/../../../media/script/common/json.lua"]:304: String decoding failed: unterminated string at position 5�
+stack traceback:
+	[C]: at 0x7ffe1ab74570
+	[C]: in function 'assert'
+	[string "/../../../media/script/common/json.lua"]:304: in function 'decode'
+	[string "/../../../media/script/common/json.lua"]:270: in function 'decode'
+	[string "/../../../media/script/log/LogServerCall.lua"]:65: in function 'func'
+	[string "/../../../media/script/core/CLuaTrigger.lua"]:38: in function <[string "/../../../media/script/core/CLuaTrigger.lua"]:36>
+----------------[2018-11-3 17:53:37]--------------------
+[string "/../../../media/script/common/json.lua"]:304: String decoding failed: unterminated string at position 5�
+stack traceback:
+	[C]: at 0x7ffe1ab74570
+	[C]: in function 'assert'
+	[string "/../../../media/script/common/json.lua"]:304: in function 'decode'
+	[string "/../../../media/script/common/json.lua"]:270: in function 'decode'
+	[string "/../../../media/script/log/LogServerCall.lua"]:65: in function 'func'
+	[string "/../../../media/script/core/CLuaTrigger.lua"]:38: in function <[string "/../../../media/script/core/CLuaTrigger.lua"]:36>
+----------------[2018-11-3 17:53:37]--------------------
+[string "/../../../media/script/common/json.lua"]:304: String decoding failed: unterminated string at position 51
+stack traceback:
+	[C]: at 0x7ffe1ab74570
+	[C]: in function 'assert'
+	[string "/../../../media/script/common/json.lua"]:304: in function 'decode'
+	[string "/../../../media/script/common/json.lua"]:270: in function 'decode'
+	[string "/../../../media/script/log/LogServerCall.lua"]:65: in function 'func'
+	[string "/../../../media/script/core/CLuaTrigger.lua"]:38: in function <[string "/../../../media/script/core/CLuaTrigger.lua"]:36>
+----------------[2018-11-3 17:53:37]--------------------
+[string "/../../../media/script/common/json.lua"]:304: String decoding failed: unterminated string at position 50
+stack traceback:
+	[C]: at 0x7ffe1ab74570
+	[C]: in function 'assert'
+	[string "/../../../media/script/common/json.lua"]:304: in function 'decode'
+	[string "/../../../media/script/common/json.lua"]:270: in function 'decode'
+	[string "/../../../media/script/log/LogServerCall.lua"]:65: in function 'func'
+	[string "/../../../media/script/core/CLuaTrigger.lua"]:38: in function <[string "/../../../media/script/core/CLuaTrigger.lua"]:36>
+----------------[2018-11-3 17:53:38]--------------------
+[string "/../../../media/script/common/json.lua"]:304: String decoding failed: unterminated string at position 5�
+stack traceback:
+	[C]: at 0x7ffe1ab74570
+	[C]: in function 'assert'
+	[string "/../../../media/script/common/json.lua"]:304: in function 'decode'
+	[string "/../../../media/script/common/json.lua"]:270: in function 'decode'
+	[string "/../../../media/script/log/LogServerCall.lua"]:65: in function 'func'
+	[string "/../../../media/script/core/CLuaTrigger.lua"]:38: in function <[string "/../../../media/script/core/CLuaTrigger.lua"]:36>
+----------------[2018-11-3 17:53:38]--------------------
+[string "/../../../media/script/common/json.lua"]:304: String decoding failed: unterminated string at position 76
+stack traceback:
+	[C]: at 0x7ffe1ab74570
+	[C]: in function 'assert'
+	[string "/../../../media/script/common/json.lua"]:304: in function 'decode'
+	[string "/../../../media/script/common/json.lua"]:270: in function 'decode'
+	[string "/../../../media/script/log/LogServerCall.lua"]:65: in function 'func'
+	[string "/../../../media/script/core/CLuaTrigger.lua"]:38: in function <[string "/../../../media/script/core/CLuaTrigger.lua"]:36>
+----------------[2018-11-3 17:53:38]--------------------
+[string "/../../../media/script/common/json.lua"]:304: String decoding failed: unterminated string at position 68
+stack traceback:
+	[C]: at 0x7ffe1ab74570
+	[C]: in function 'assert'
+	[string "/../../../media/script/common/json.lua"]:304: in function 'decode'
+	[string "/../../../media/script/common/json.lua"]:270: in function 'decode'
+	[string "/../../../media/script/log/LogServerCall.lua"]:65: in function 'func'
+	[string "/../../../media/script/core/CLuaTrigger.lua"]:38: in function <[string "/../../../media/script/core/CLuaTrigger.lua"]:36>
+----------------[2018-11-3 17:53:38]--------------------
+[string "/../../../media/script/common/json.lua"]:304: String decoding failed: unterminated string at position 68
+stack traceback:
+	[C]: at 0x7ffe1ab74570
+	[C]: in function 'assert'
+	[string "/../../../media/script/common/json.lua"]:304: in function 'decode'
+	[string "/../../../media/script/common/json.lua"]:270: in function 'decode'
+	[string "/../../../media/script/log/LogServerCall.lua"]:65: in function 'func'
+	[string "/../../../media/script/core/CLuaTrigger.lua"]:38: in function <[string "/../../../media/script/core/CLuaTrigger.lua"]:36>
+----------------[2018-11-3 17:53:38]--------------------
+[string "/../../../media/script/common/json.lua"]:304: String decoding failed: unterminated string at position 70
+stack traceback:
+	[C]: at 0x7ffe1ab74570
+	[C]: in function 'assert'
+	[string "/../../../media/script/common/json.lua"]:304: in function 'decode'
+	[string "/../../../media/script/common/json.lua"]:270: in function 'decode'
+	[string "/../../../media/script/log/LogServerCall.lua"]:65: in function 'func'
+	[string "/../../../media/script/core/CLuaTrigger.lua"]:38: in function <[string "/../../../media/script/core/CLuaTrigger.lua"]:36>
+----------------[2018-11-3 17:53:38]--------------------
+[string "/../../../media/script/common/json.lua"]:304: String decoding failed: unterminated string at position 6�
+stack traceback:
+	[C]: at 0x7ffe1ab74570
+	[C]: in function 'assert'
+	[string "/../../../media/script/common/json.lua"]:304: in function 'decode'
+	[string "/../../../media/script/common/json.lua"]:270: in function 'decode'
+	[string "/../../../media/script/log/LogServerCall.lua"]:65: in function 'func'
+	[string "/../../../media/script/core/CLuaTrigger.lua"]:38: in function <[string "/../../../media/script/core/CLuaTrigger.lua"]:36>
+----------------[2018-11-3 17:53:38]--------------------
+[string "/../../../media/script/common/json.lua"]:304: String decoding failed: unterminated string at position 6�
+stack traceback:
+	[C]: at 0x7ffe1ab74570
+	[C]: in function 'assert'
+	[string "/../../../media/script/common/json.lua"]:304: in function 'decode'
+	[string "/../../../media/script/common/json.lua"]:270: in function 'decode'
+	[string "/../../../media/script/log/LogServerCall.lua"]:65: in function 'func'
+	[string "/../../../media/script/core/CLuaTrigger.lua"]:38: in function <[string "/../../../media/script/core/CLuaTrigger.lua"]:36>
+----------------[2018-11-3 17:53:38]--------------------
+[string "/../../../media/script/common/json.lua"]:304: String decoding failed: unterminated string at position 66
+stack traceback:
+	[C]: at 0x7ffe1ab74570
+	[C]: in function 'assert'
+	[string "/../../../media/script/common/json.lua"]:304: in function 'decode'
+	[string "/../../../media/script/common/json.lua"]:270: in function 'decode'
+	[string "/../../../media/script/log/LogServerCall.lua"]:65: in function 'func'
+	[string "/../../../media/script/core/CLuaTrigger.lua"]:38: in function <[string "/../../../media/script/core/CLuaTrigger.lua"]:36>
+----------------[2018-11-3 17:53:38]--------------------
+[string "/../../../media/script/common/json.lua"]:304: String decoding failed: unterminated string at position 5�
+stack traceback:
+	[C]: at 0x7ffe1ab74570
+	[C]: in function 'assert'
+	[string "/../../../media/script/common/json.lua"]:304: in function 'decode'
+	[string "/../../../media/script/common/json.lua"]:270: in function 'decode'
+	[string "/../../../media/script/log/LogServerCall.lua"]:65: in function 'func'
+	[string "/../../../media/script/core/CLuaTrigger.lua"]:38: in function <[string "/../../../media/script/core/CLuaTrigger.lua"]:36>
+----------------[2018-11-3 17:55:47]--------------------
+[string "/../../../media/script/common/json.lua"]:304: String decoding failed: unterminated string at position 5�
+stack traceback:
+	[C]: at 0x7ffe1ab74570
+	[C]: in function 'assert'
+	[string "/../../../media/script/common/json.lua"]:304: in function 'decode'
+	[string "/../../../media/script/common/json.lua"]:270: in function 'decode'
+	[string "/../../../media/script/log/LogServerCall.lua"]:65: in function 'func'
+	[string "/../../../media/script/core/CLuaTrigger.lua"]:38: in function <[string "/../../../media/script/core/CLuaTrigger.lua"]:36>
+----------------[2018-11-3 17:56:54]--------------------
+[string "/../../../media/script/common/json.lua"]:304: String decoding failed: unterminated string at position 52
+stack traceback:
+	[C]: at 0x7ffe1aa84570
+	[C]: in function 'assert'
+	[string "/../../../media/script/common/json.lua"]:304: in function 'decode'
+	[string "/../../../media/script/common/json.lua"]:270: in function 'decode'
+	[string "/../../../media/script/log/LogServerCall.lua"]:66: in function 'func'
+	[string "/../../../media/script/core/CLuaTrigger.lua"]:38: in function <[string "/../../../media/script/core/CLuaTrigger.lua"]:36>
+----------------[2018-11-3 17:56:59]--------------------
+[string "/../../../media/script/common/json.lua"]:304: String decoding failed: unterminated string at position 22
+stack traceback:
+	[C]: at 0x7ffe1aa84570
+	[C]: in function 'assert'
+	[string "/../../../media/script/common/json.lua"]:304: in function 'decode'
+	[string "/../../../media/script/common/json.lua"]:270: in function 'decode'
+	[string "/../../../media/script/log/LogServerCall.lua"]:66: in function 'func'
+	[string "/../../../media/script/core/CLuaTrigger.lua"]:38: in function <[string "/../../../media/script/core/CLuaTrigger.lua"]:36>
+----------------[2018-11-3 17:57:6]--------------------
+[string "/../../../media/script/common/json.lua"]:304: String decoding failed: unterminated string at position 22
+stack traceback:
+	[C]: at 0x7ffe1aa84570
+	[C]: in function 'assert'
+	[string "/../../../media/script/common/json.lua"]:304: in function 'decode'
+	[string "/../../../media/script/common/json.lua"]:270: in function 'decode'
+	[string "/../../../media/script/log/LogServerCall.lua"]:66: in function 'func'
+	[string "/../../../media/script/core/CLuaTrigger.lua"]:38: in function <[string "/../../../media/script/core/CLuaTrigger.lua"]:36>
+----------------[2018-11-3 17:57:53]--------------------
+[string "/../../../media/script/common/json.lua"]:304: String decoding failed: unterminated string at position 5�
+stack traceback:
+	[C]: at 0x7ffe1aa84570
+	[C]: in function 'assert'
+	[string "/../../../media/script/common/json.lua"]:304: in function 'decode'
+	[string "/../../../media/script/common/json.lua"]:270: in function 'decode'
+	[string "/../../../media/script/log/LogServerCall.lua"]:67: in function 'func'
+	[string "/../../../media/script/core/CLuaTrigger.lua"]:38: in function <[string "/../../../media/script/core/CLuaTrigger.lua"]:36>
+----------------[2018-11-3 17:57:57]--------------------
+[string "/../../../media/script/common/json.lua"]:304: String decoding failed: unterminated string at position 22
+stack traceback:
+	[C]: at 0x7ffe1aa84570
+	[C]: in function 'assert'
+	[string "/../../../media/script/common/json.lua"]:304: in function 'decode'
+	[string "/../../../media/script/common/json.lua"]:270: in function 'decode'
+	[string "/../../../media/script/log/LogServerCall.lua"]:67: in function 'func'
+	[string "/../../../media/script/core/CLuaTrigger.lua"]:38: in function <[string "/../../../media/script/core/CLuaTrigger.lua"]:36>
+----------------[2018-11-3 17:58:2]--------------------
+[string "/../../../media/script/common/json.lua"]:304: String decoding failed: unterminated string at position 22
+stack traceback:
+	[C]: at 0x7ffe1aa84570
+	[C]: in function 'assert'
+	[string "/../../../media/script/common/json.lua"]:304: in function 'decode'
+	[string "/../../../media/script/common/json.lua"]:270: in function 'decode'
+	[string "/../../../media/script/log/LogServerCall.lua"]:67: in function 'func'
+	[string "/../../../media/script/core/CLuaTrigger.lua"]:38: in function <[string "/../../../media/script/core/CLuaTrigger.lua"]:36>
+----------------[2018-11-3 17:58:2]--------------------
+[string "/../../../media/script/common/json.lua"]:304: String decoding failed: unterminated string at position 34
+stack traceback:
+	[C]: at 0x7ffe1aa84570
+	[C]: in function 'assert'
+	[string "/../../../media/script/common/json.lua"]:304: in function 'decode'
+	[string "/../../../media/script/common/json.lua"]:270: in function 'decode'
+	[string "/../../../media/script/log/LogServerCall.lua"]:67: in function 'func'
+	[string "/../../../media/script/core/CLuaTrigger.lua"]:38: in function <[string "/../../../media/script/core/CLuaTrigger.lua"]:36>
+----------------[2018-11-3 17:58:2]--------------------
+[string "/../../../media/script/common/json.lua"]:304: String decoding failed: unterminated string at position 3�
+stack traceback:
+	[C]: at 0x7ffe1aa84570
+	[C]: in function 'assert'
+	[string "/../../../media/script/common/json.lua"]:304: in function 'decode'
+	[string "/../../../media/script/common/json.lua"]:270: in function 'decode'
+	[string "/../../../media/script/log/LogServerCall.lua"]:67: in function 'func'
+	[string "/../../../media/script/core/CLuaTrigger.lua"]:38: in function <[string "/../../../media/script/core/CLuaTrigger.lua"]:36>
+----------------[2018-11-3 17:58:2]--------------------
+[string "/../../../media/script/common/json.lua"]:304: String decoding failed: unterminated string at position 2�
+stack traceback:
+	[C]: at 0x7ffe1aa84570
+	[C]: in function 'assert'
+	[string "/../../../media/script/common/json.lua"]:304: in function 'decode'
+	[string "/../../../media/script/common/json.lua"]:270: in function 'decode'
+	[string "/../../../media/script/log/LogServerCall.lua"]:67: in function 'func'
+	[string "/../../../media/script/core/CLuaTrigger.lua"]:38: in function <[string "/../../../media/script/core/CLuaTrigger.lua"]:36>
+----------------[2018-11-3 17:58:3]--------------------
+[string "/../../../media/script/common/json.lua"]:304: String decoding failed: unterminated string at position 28
+stack traceback:
+	[C]: at 0x7ffe1aa84570
+	[C]: in function 'assert'
+	[string "/../../../media/script/common/json.lua"]:304: in function 'decode'
+	[string "/../../../media/script/common/json.lua"]:270: in function 'decode'
+	[string "/../../../media/script/log/LogServerCall.lua"]:67: in function 'func'
+	[string "/../../../media/script/core/CLuaTrigger.lua"]:38: in function <[string "/../../../media/script/core/CLuaTrigger.lua"]:36>
+----------------[2018-11-3 17:58:3]--------------------
+[string "/../../../media/script/common/json.lua"]:304: String decoding failed: unterminated string at position 4�
+stack traceback:
+	[C]: at 0x7ffe1aa84570
+	[C]: in function 'assert'
+	[string "/../../../media/script/common/json.lua"]:304: in function 'decode'
+	[string "/../../../media/script/common/json.lua"]:270: in function 'decode'
+	[string "/../../../media/script/log/LogServerCall.lua"]:67: in function 'func'
+	[string "/../../../media/script/core/CLuaTrigger.lua"]:38: in function <[string "/../../../media/script/core/CLuaTrigger.lua"]:36>
+----------------[2018-11-3 17:58:3]--------------------
+[string "/../../../media/script/common/json.lua"]:304: String decoding failed: unterminated string at position 45
+stack traceback:
+	[C]: at 0x7ffe1aa84570
+	[C]: in function 'assert'
+	[string "/../../../media/script/common/json.lua"]:304: in function 'decode'
+	[string "/../../../media/script/common/json.lua"]:270: in function 'decode'
+	[string "/../../../media/script/log/LogServerCall.lua"]:67: in function 'func'
+	[string "/../../../media/script/core/CLuaTrigger.lua"]:38: in function <[string "/../../../media/script/core/CLuaTrigger.lua"]:36>
+----------------[2018-11-3 17:58:28]--------------------
+[string "/../../../media/script/common/json.lua"]:304: String decoding failed: unterminated string at position 39
+stack traceback:
+	[C]: at 0x7ffe1aa84570
+	[C]: in function 'assert'
+	[string "/../../../media/script/common/json.lua"]:304: in function 'decode'
+	[string "/../../../media/script/common/json.lua"]:270: in function 'decode'
+	[string "/../../../media/script/log/LogServerCall.lua"]:67: in function 'func'
+	[string "/../../../media/script/core/CLuaTrigger.lua"]:38: in function <[string "/../../../media/script/core/CLuaTrigger.lua"]:36>
+----------------[2018-11-3 17:58:28]--------------------
+ in function <[string "/../../../media/script/core/CLuaTrigger.lua"]:36>
+stack traceback:
+	[C]: at 0x7ffe1aa84570
+	[C]: in function 'assert'
+	[string "/../../../media/script/common/json.lua"]:304: in function 'decode'
+	[string "/../../../media/script/common/json.lua"]:270: in function 'decode'
+	[string "/../../../media/script/log/LogServerCall.lua"]:67: in function 'func'
+	[string "/../../../media/script/core/CLuaTrigger.lua"]:38: in function <[string "/../../../media/script/core/CLuaTrigger.lua"]:36>
+----------------[2018-11-3 17:58:35]--------------------
+[string "/../../../media/script/common/json.lua"]:304: String decoding failed: unterminated string at position 36
+stack traceback:
+	[C]: at 0x7ffe1aa84570
+	[C]: in function 'assert'
+	[string "/../../../media/script/common/json.lua"]:304: in function 'decode'
+	[string "/../../../media/script/common/json.lua"]:270: in function 'decode'
+	[string "/../../../media/script/log/LogServerCall.lua"]:67: in function 'func'
+	[string "/../../../media/script/core/CLuaTrigger.lua"]:38: in function <[string "/../../../media/script/core/CLuaTrigger.lua"]:36>
+----------------[2018-11-3 17:58:35]--------------------
+[string "/../../../media/script/common/json.lua"]:304: String decoding failed: unterminated string at position 2�
+stack traceback:
+	[C]: at 0x7ffe1aa84570
+	[C]: in function 'assert'
+	[string "/../../../media/script/common/json.lua"]:304: in function 'decode'
+	[string "/../../../media/script/common/json.lua"]:270: in function 'decode'
+	[string "/../../../media/script/log/LogServerCall.lua"]:67: in function 'func'
+	[string "/../../../media/script/core/CLuaTrigger.lua"]:38: in function <[string "/../../../media/script/core/CLuaTrigger.lua"]:36>
+----------------[2018-11-3 17:58:36]--------------------
+[string "/../../../media/script/common/json.lua"]:304: String decoding failed: unterminated string at position 51
+stack traceback:
+	[C]: at 0x7ffe1aa84570
+	[C]: in function 'assert'
+	[string "/../../../media/script/common/json.lua"]:304: in function 'decode'
+	[string "/../../../media/script/common/json.lua"]:270: in function 'decode'
+	[string "/../../../media/script/log/LogServerCall.lua"]:67: in function 'func'
+	[string "/../../../media/script/core/CLuaTrigger.lua"]:38: in function <[string "/../../../media/script/core/CLuaTrigger.lua"]:36>
+----------------[2018-11-3 17:58:36]--------------------
+[string "/../../../media/script/common/json.lua"]:304: String decoding failed: unterminated string at position 5�
+stack traceback:
+	[C]: at 0x7ffe1aa84570
+	[C]: in function 'assert'
+	[string "/../../../media/script/common/json.lua"]:304: in function 'decode'
+	[string "/../../../media/script/common/json.lua"]:270: in function 'decode'
+	[string "/../../../media/script/log/LogServerCall.lua"]:67: in function 'func'
+	[string "/../../../media/script/core/CLuaTrigger.lua"]:38: in function <[string "/../../../media/script/core/CLuaTrigger.lua"]:36>
+----------------[2018-11-3 17:58:36]--------------------
+[string "/../../../media/script/common/json.lua"]:304: String decoding failed: unterminated string at position 51
+stack traceback:
+	[C]: at 0x7ffe1aa84570
+	[C]: in function 'assert'
+	[string "/../../../media/script/common/json.lua"]:304: in function 'decode'
+	[string "/../../../media/script/common/json.lua"]:270: in function 'decode'
+	[string "/../../../media/script/log/LogServerCall.lua"]:67: in function 'func'
+	[string "/../../../media/script/core/CLuaTrigger.lua"]:38: in function <[string "/../../../media/script/core/CLuaTrigger.lua"]:36>
+----------------[2018-11-3 17:58:36]--------------------
+[string "/../../../media/script/common/json.lua"]:304: String decoding failed: unterminated string at position 50
+stack traceback:
+	[C]: at 0x7ffe1aa84570
+	[C]: in function 'assert'
+	[string "/../../../media/script/common/json.lua"]:304: in function 'decode'
+	[string "/../../../media/script/common/json.lua"]:270: in function 'decode'
+	[string "/../../../media/script/log/LogServerCall.lua"]:67: in function 'func'
+	[string "/../../../media/script/core/CLuaTrigger.lua"]:38: in function <[string "/../../../media/script/core/CLuaTrigger.lua"]:36>
+----------------[2018-11-3 17:58:55]--------------------
+[string "/../../../media/script/common/json.lua"]:304: String decoding failed: unterminated string at position 5�
+stack traceback:
+	[C]: at 0x7ffe1aa84570
+	[C]: in function 'assert'
+	[string "/../../../media/script/common/json.lua"]:304: in function 'decode'
+	[string "/../../../media/script/common/json.lua"]:270: in function 'decode'
+	[string "/../../../media/script/log/LogServerCall.lua"]:67: in function 'func'
+	[string "/../../../media/script/core/CLuaTrigger.lua"]:38: in function <[string "/../../../media/script/core/CLuaTrigger.lua"]:36>
+----------------[2018-11-3 17:58:55]--------------------
+[string "/../../../media/script/common/json.lua"]:304: String decoding failed: unterminated string at position 76
+stack traceback:
+	[C]: at 0x7ffe1aa84570
+	[C]: in function 'assert'
+	[string "/../../../media/script/common/json.lua"]:304: in function 'decode'
+	[string "/../../../media/script/common/json.lua"]:270: in function 'decode'
+	[string "/../../../media/script/log/LogServerCall.lua"]:67: in function 'func'
+	[string "/../../../media/script/core/CLuaTrigger.lua"]:38: in function <[string "/../../../media/script/core/CLuaTrigger.lua"]:36>
+----------------[2018-11-3 17:58:55]--------------------
+[string "/../../../media/script/common/json.lua"]:304: String decoding failed: unterminated string at position 68
+stack traceback:
+	[C]: at 0x7ffe1aa84570
+	[C]: in function 'assert'
+	[string "/../../../media/script/common/json.lua"]:304: in function 'decode'
+	[string "/../../../media/script/common/json.lua"]:270: in function 'decode'
+	[string "/../../../media/script/log/LogServerCall.lua"]:67: in function 'func'
+	[string "/../../../media/script/core/CLuaTrigger.lua"]:38: in function <[string "/../../../media/script/core/CLuaTrigger.lua"]:36>
+----------------[2018-11-3 17:58:55]--------------------
+[string "/../../../media/script/common/json.lua"]:304: String decoding failed: unterminated string at position 68
+stack traceback:
+	[C]: at 0x7ffe1aa84570
+	[C]: in function 'assert'
+	[string "/../../../media/script/common/json.lua"]:304: in function 'decode'
+	[string "/../../../media/script/common/json.lua"]:270: in function 'decode'
+	[string "/../../../media/script/log/LogServerCall.lua"]:67: in function 'func'
+	[string "/../../../media/script/core/CLuaTrigger.lua"]:38: in function <[string "/../../../media/script/core/CLuaTrigger.lua"]:36>
+----------------[2018-11-3 17:58:55]--------------------
+[string "/../../../media/script/common/json.lua"]:304: String decoding failed: unterminated string at position 70
+stack traceback:
+	[C]: at 0x7ffe1aa84570
+	[C]: in function 'assert'
+	[string "/../../../media/script/common/json.lua"]:304: in function 'decode'
+	[string "/../../../media/script/common/json.lua"]:270: in function 'decode'
+	[string "/../../../media/script/log/LogServerCall.lua"]:67: in function 'func'
+	[string "/../../../media/script/core/CLuaTrigger.lua"]:38: in function <[string "/../../../media/script/core/CLuaTrigger.lua"]:36>
+----------------[2018-11-3 17:58:55]--------------------
+[string "/../../../media/script/common/json.lua"]:304: String decoding failed: unterminated string at position 6�
+stack traceback:
+	[C]: at 0x7ffe1aa84570
+	[C]: in function 'assert'
+	[string "/../../../media/script/common/json.lua"]:304: in function 'decode'
+	[string "/../../../media/script/common/json.lua"]:270: in function 'decode'
+	[string "/../../../media/script/log/LogServerCall.lua"]:67: in function 'func'
+	[string "/../../../media/script/core/CLuaTrigger.lua"]:38: in function <[string "/../../../media/script/core/CLuaTrigger.lua"]:36>
+----------------[2018-11-3 17:58:56]--------------------
+[string "/../../../media/script/common/json.lua"]:304: String decoding failed: unterminated string at position 60
+stack traceback:
+	[C]: at 0x7ffe1aa84570
+	[C]: in function 'assert'
+	[string "/../../../media/script/common/json.lua"]:304: in function 'decode'
+	[string "/../../../media/script/common/json.lua"]:270: in function 'decode'
+	[string "/../../../media/script/log/LogServerCall.lua"]:67: in function 'func'
+	[string "/../../../media/script/core/CLuaTrigger.lua"]:38: in function <[string "/../../../media/script/core/CLuaTrigger.lua"]:36>
+----------------[2018-11-3 17:58:56]--------------------
+[string "/../../../media/script/common/json.lua"]:304: String decoding failed: unterminated string at position 66
+stack traceback:
+	[C]: at 0x7ffe1aa84570
+	[C]: in function 'assert'
+	[string "/../../../media/script/common/json.lua"]:304: in function 'decode'
+	[string "/../../../media/script/common/json.lua"]:270: in function 'decode'
+	[string "/../../../media/script/log/LogServerCall.lua"]:67: in function 'func'
+	[string "/../../../media/script/core/CLuaTrigger.lua"]:38: in function <[string "/../../../media/script/core/CLuaTrigger.lua"]:36>
+----------------[2018-11-3 18:35:4]--------------------
+[string "/../../../media/script/log/LogServerCall.lua"]:48: attempt to index global 'curnet' (a nil value)
+stack traceback:
+	[C]: in function '__index'
+	[string "/../../../media/script/log/LogServerCall.lua"]:48: in function 'func'
+	[string "/../../../media/script/core/CLuaTrigger.lua"]:38: in function <[string "/../../../media/script/core/CLuaTrigger.lua"]:36>
+----------------[2018-11-3 18:38:10]--------------------
+[string "/../../../media/script/log/NetLuaFiles.lua"]:19: attempt to call field 'instance' (a table value)
+stack traceback:
+	[C]: in function 'instance'
+	[string "/../../../media/script/log/NetLuaFiles.lua"]:19: in function 'init'
+	[string "/../../../media/script/log/NetLuaFiles.lua"]:65: in function 'screate'
+	[string "/../../../media/script/log/LogServerCall.lua"]:73: in function 'func'
+	[string "/../../../media/script/core/CLuaTrigger.lua"]:38: in function <[string "/../../../media/script/core/CLuaTrigger.lua"]:36>
+----------------[2018-11-3 18:39:18]--------------------
+[string "/../../../media/script/log/NetLuaFiles.lua"]:34: error in function 'hasConnect'.
+     argument #2 is 'nil'; 'number' expected.
+
+stack traceback:
+	[C]: at 0x7ffe1a5d4570
+	[C]: in function 'hasConnect'
+	[string "/../../../media/script/log/NetLuaFiles.lua"]:34: in function 'updateLuaFile'
+	[string "/../../../media/script/log/LogServerCall.lua"]:52: in function 'func'
+	[string "/../../../media/script/core/CLuaTrigger.lua"]:38: in function <[string "/../../../media/script/core/CLuaTrigger.lua"]:36>
+----------------[2018-11-3 18:58:41]--------------------
+[string "/../../../media/script/log/NetLuaFiles.lua"]:46: attempt to call field 'instance' (a table value)
+stack traceback:
+	[C]: in function 'instance'
+	[string "/../../../media/script/log/NetLuaFiles.lua"]:46: in function 'updateLuaFile'
+	[string "/../../../media/script/log/NetLuaFiles.lua"]:98: in function 'supdateLuaFile'
+	[string "/../../../media/script/log/LogServerCall.lua"]:49: in function 'func'
+	[string "/../../../media/script/core/CLuaTrigger.lua"]:38: in function <[string "/../../../media/script/core/CLuaTrigger.lua"]:36>
+----------------[2018-11-3 18:59:53]--------------------
+[string "/../../../media/script/common/json.lua"]:308: Failed to load string [ return "{\"path\":\"app.views.championRank.ChampionRankWatch\",\"text\":\"-----------------------------------------------------------------------\\n-- @brief 地表最强赛况表\\nlocal P = class(\\\"ChampionRankWatch\\\", BaseLayer)\\n-- 赛况表页签\\nlocal WatchPage = require(\\\"app.views.uidatas.ui_championRankWatchPage\\\")\\n-- 赛况表决赛页签\\nlocal WatchFinishPage = require(\\\"app.views.uidatas.ui_championRankWatchFinishPage\\\")\\nlocal WatchViewNode = require(\\\"app.views.uidatas.ui_championRankWatchViewNode\\\")\\nlocal FinishWatchViewNode = require(\\\"app.views.uidatas.ui_championRankFinishWatchViewNode\\\")\\n\\n---------------------------------------------------------------------\\n-- 延迟加载资源和收取服务器跳转\\n-- param[layerName] 跳转图层\\n-- param[args] 参数\\nfunction P:delayGoto(layerName, args)\\n    -- 获取报名信息\\n    local req = ptl.Req30007:create()\\n    req.groupId = sgChampionRankConfig:getChampionChooseGroupId()\\n    ReqAndResp:callReq(req, function(watchData)\\n        sgLayerManager:goto(layerName, watchData)\\n    end)\\nend\\n\\n-----------------------------------------------------------------------\\n-- @brief 构造函数\\n-- param[main] 地表最强入口对象\\n-- param[groupData] 30015协议返回数据\\nfunction P:ctor(watchData)\\n\\tP.super.ctor(self, \\\"ui_championRankWatch\\\", Constants.SWITCH_SCALE)\\n    self._watchData = watchData\\n    self:initUI()\\nend\\n-----------------------------------------------------------------------\\n-- @brief 初始化ui\\nfunction P:initUI()\\n\\t-- 设置位置\\n\\tlocal winSize = cc.Director:getInstance():getWinSize()\\n    local x=(winSize.width) * 0.5\\n    local y=(winSize.height) * 0.5\\n    self._ui.uiObject:setPosition(cc.p(x, y))\\n    -- 退出观看界面\\n    self._ui.btnClose:setClickCallback(function(s, t)\\n        self:onRelease()\\n    end)\\n    -- 32进16\\n    self._groupData32_1 = {}\\n    self._groupData32_2 = {}\\n    -- 16进8\\n    self._groupData16 = {}\\n    -- 8进4\\n    self._groupData8  = {}\\n    -- 4强\\n    self._groupData4  = {}\\n    -- 2强\\n    self._groupData2  = {}\\n    -- 组合数据\\n    for _, v in pairs(self._watchData.items) do\\n    \\tif v.eType == 32 then\\n    \\t\\tif #self._groupData32_1 < 8 then \\n    \\t\\t\\ttable.insert(self._groupData32_1, v)\\n    \\t\\telse\\n    \\t\\t\\ttable.insert(self._groupData32_2, v)\\n    \\t\\tend\\n    \\telseif v.eType == 16 and #self._groupData16 < 8  then\\n    \\t\\ttable.insert(self._groupData16, v)\\n    \\telseif v.eType == 8 and #self._groupData8 < 4 then\\n    \\t\\ttable.insert(self._groupData8, v)\\n    \\telseif v.eType == 4 and #self._groupData4 < 2 then\\n\\t\\t\\ttable.insert(self._groupData4, v)\\n\\t\\telseif v.eType == 2 and #self._groupData2 < 1 then\\n\\t\\t\\ttable.insert(self._groupData2, v)\\n    \\tend\\n    end\\n\\n\\n    -- 排序\\n    table.sort(self._groupData8, function(a, b)\\n    \\treturn a.groupSubId < b.groupSubId\\n    end)\\n\\n\\ttable.sort(self._groupData4, function(a, b)\\n    \\treturn a.groupSubId < b.groupSubId\\n    end)\\n\\n\\n    -- 32进16第1页\\n    self._ui.sldPage:addItem(self:crateWatchPage(self._groupData32_1))\\n    -- 32进16第2页\\n    self._ui.sldPage:addItem(self:crateWatchPage(self._groupData32_2))\\n    -- 16进8页签\\n    self._ui.sldPage:addItem(self:crateWatchPage(self._groupData16))\\n    -- 决赛\\n    self._finishPage = self:crateWatchFinishPage()\\n    self._ui.sldPage:addItem(self._finishPage.uiObject)\\n\\n    -- 更新8强\\n    self:UpdateEightStrong()\\n    -- 更新4强\\n    self:UpdateFourStrong()\\n    -- 更新2强\\n    self:UpdateTwoStrong()\\n\\n\\n    -- 选中页标识\\n    self._choosePageIcon = self._ui.spRBPage1\\n\\n    -- 监听\\n\\tself._handleReqId = cc.Director:getInstance():getScheduler():scheduleScriptFunc(handler(self, self.update), 0, false)\\n\\n\\t-- 设置触摸\\n\\tself._ui.uiObject7:setTouchBegan(handler(self, self.onTouchBegin))\\n\\n\\n\\tlocal chooseLandType = sgChampionRankConfig:getChampionChooseLandType()\\n\\tlocal pageIndex = 0\\n\\tif chooseLandType == 16 then\\n\\t\\tpageIndex = 2\\n\\telseif chooseLandType <= 8 then\\n\\t\\tpageIndex = 3\\n\\tend\\n\\tself._ui.sldPage:setCurrentPage(pageIndex)\\n\\tself._ui.lbMatchTtitle:setString(sgChampionRankConfig:getWatchTitle(pageIndex))\\n\\tself._choosePageIcon:setVisible(false)\\n\\tself._choosePageIcon = self._ui[\\\"spRBPage\\\" .. tostring(pageIndex+1)]\\n\\tself._choosePageIcon:setVisible(true)\\n\\tif self._selectViewNode then \\n\\t\\tself._selectViewNode.uiObject:setVisible(false)\\n\\tend\\n\\nend\\n-----------------------------------------------------------------------\\n-- @brief 创建一个页签\\n-- param[data] 数据\\nfunction P:crateWatchPage(data)\\n\\t-- 创建一个页签\\n\\tlocal page = WatchPage:create()\\n    -- 初始化UI\\n    page:setupUi()\\n    -- key 值\\n\\tlocal key = \\\"csbWatch\\\"\\n\\t-- 遍历\\n\\tfor i, v in ipairs(data) do\\n\\t\\tlocal csbWatch = page[key .. tostring(i)]\\n\\t\\tif not csbWatch then\\n\\t\\t\\tbreak\\n\\t\\tend\\n\\t\\tself:combinationWatchViewNode(csbWatch, v)\\n\\tend\\n\\treturn page.uiObject\\nend\\n-----------------------------------------------------------------------\\n-- @brief 创建最终决战页签\\n-- param[data] 数据\\nfunction P:crateWatchFinishPage()\\n\\t-- 创建一个页签\\n\\tlocal page = WatchFinishPage:create()\\n    -- 初始化UI\\n    page:setupUi()\\n    -- key 值\\n\\treturn page\\nend\\n-----------------------------------------------------------------------\\n-- @brief 组合一个观看节点\\n-- param[btnStart] 按钮\\n-- param[data] 数据\\nfunction P:initWatchStart(btnStart, data)\\n\\tbtnStart:setEnabled(true)\\n\\tbtnStart:setClickCallback(function(s, t)\\n\\t\\tlocal pos = btnStart:getParent():convertToWorldSpace(cc.p(btnStart:getPosition()))\\n\\t\\t-- 创建一个控件\\n\\t\\tif not self._selectViewNode then\\n\\t\\t\\tself._selectViewNode = WatchViewNode:create()\\n\\t\\t\\tself._selectViewNode:setupUi()\\n\\t\\t\\tself._selectViewNode.uiObject:setAnchorPoint(cc.p(1.0, 1.0))\\n\\t\\t\\tself:addChild(self._selectViewNode.uiObject)\\n\\t\\tend\\n\\t\\t-- 设置可见\\n\\t\\tself._selectViewNode.uiObject:setVisible(true)\\n\\n\\t\\t-- 设置坐标\\n\\t\\tself._selectViewNode.uiObject:setPosition(pos)\\n\\t\\t-- 保存\\n\\t\\tself._selectViewNode.data = data\\n\\t\\t-- 清空\\n\\t\\tfor i=1, 3 do\\n\\t\\t\\tself._selectViewNode[\\\"btnMatchView\\\" .. tostring(i)]:setEnabled(false)\\n\\t\\tend\\n\\t\\t-- 遍历\\n\\t\\tfor i, v in ipairs(data.battles) do\\n\\t\\t\\tlocal btn = self._selectViewNode[\\\"btnMatchView\\\" .. tostring(i)]\\n\\t\\t\\tbtn:setEnabled(true)\\n\\t\\t\\tbtn:setClickCallback(function(s, t)\\n\\t\\t\\t\\t-- 调用观看\\n\\t\\t\\t\\tsgChampionRankConfig:gotoMatchWatch(v)\\n\\t\\t\\tend)\\n\\t\\tend\\n\\tend)\\nend\\n\\n-----------------------------------------------------------------------\\n-- @brief 组合一个观看节点\\n-- param[btnStart] 按钮\\n-- param[data] 数据\\nfunction P:initWatchStart8(btnStart, data)\\n\\tbtnStart:setEnabled(true)\\n\\tbtnStart:setClickCallback(function(s, t)\\n\\t\\tlocal pos = btnStart:getParent():convertToWorldSpace(cc.p(btnStart:getPosition()))\\n\\t\\t-- 创建一个控件\\n\\t\\tif not self._selectFinishViewNode then\\n\\t\\t\\tself._selectFinishViewNode = FinishWatchViewNode:create()\\n\\t\\t\\tself._selectFinishViewNode:setupUi()\\n\\t\\t\\tself._selectFinishViewNode.uiObject:setAnchorPoint(cc.p(1.0, 1.0))\\n\\t\\t\\tself:addChild(self._selectFinishViewNode.uiObject)\\n\\t\\tend\\n\\t\\t-- 设置可见\\n\\t\\tself._selectFinishViewNode.uiObject:setVisible(true)\\n\\n\\t\\t-- 设置坐标\\n\\t\\tself._selectFinishViewNode.uiObject:setPosition(cc.p(pos.x, pos.y + 160))\\n\\t\\t-- 保存\\n\\t\\tself._selectFinishViewNode.data = data\\n\\t\\t-- 清空\\n\\t\\tfor i=1, 5 do\\n\\t\\t\\tself._selectFinishViewNode[\\\"btnMatchView\\\" .. tostring(i)]:setEnabled(false)\\n\\t\\tend\\n\\t\\t-- 遍历\\n\\t\\tfor i, v in ipairs(data.battles) do\\n\\t\\t\\tlocal btn = self._selectFinishViewNode[\\\"btnMatchView\\\" .. tostring(i)]\\n\\t\\t\\tbtn:setEnabled(true)\\n\\t\\t\\tbtn:setClickCallback(function(s, t)\\n\\t\\t\\t\\t-- 调用观看\\n\\t\\t\\t\\tsgChampionRankConfig:gotoMatchWatch(v)\\n\\t\\t\\tend)\\n\\t\\tend\\n\\tend)\\nend\\n\\n-----------------------------------------------------------------------\\n-- @brief 组合一个观看节点\\n-- param[ui] 观看控件\\n-- param[data] 数据\\nfunction P:combinationWatchViewNode(csbWatch, data, isFiveMatch)\\n\\t--dump(data)\\n\\tlocal ui = csbWatch.ui\\n\\n\\t-- 按钮可用\\n\\tui.btnStart:setEnabled(true)\\n\\t-- 服务器1名称\\n\\t--ui.lbServer1:setString(zone_list[data.item1.zone].name)\\n\\tlocal zone_name = sgGameState:getZoneName(data.item1.zone)\\n\\tui.lbServer1:setString(zone_name)\\n\\t-- 名字1\\n\\tui.lbName1:setString(tostring(data.item1.name or \\\"\\\"))\\n\\t-- 服务器2名称\\n\\t--ui.lbServer2:setString(zone_list[data.item2.zone].name)\\n\\tlocal zone_name = sgGameState:getZoneName(data.item2.zone)\\n\\tui.lbServer2:setString(zone_name)\\n\\t-- 名字2\\n\\tui.lbName2:setString(tostring(data.item2.name or \\\"\\\"))\\n\\t-- 玩家1胜利\\n\\tif data.winRid == data.item1.playerId then\\n\\t\\tui.spWin1:setVisible(true)\\n\\t-- 玩家2胜利\\n\\telseif data.winRid == data.item2.playerId then\\n\\t\\tui.spWin2:setVisible(true)\\n\\tend\\n\\n\\tif data.item1.playerId == 0 then\\n\\t\\tui.lbServer1:setString(\\\"\\\")\\n\\t\\tui.lbName1:setString(_T(\\\"champion.tip103\\\"))\\n\\t\\tui.spWin1:setVisible(false)\\n\\tend\\n\\tif data.item2.playerId == 0 then\\n\\t\\tui.lbServer2:setString(\\\"\\\")\\n\\t\\tui.lbName2:setString(_T(\\\"champion.tip103\\\"))\\n\\t\\tui.spWin2:setVisible(false)\\n\\tend\\n\\n\\t-- 给按钮添加响应\\n\\tif isFiveMatch then\\n\\t\\tself:initWatchStart8(ui.btnStart, data)\\n\\telse\\n\\t\\tself:initWatchStart(ui.btnStart, data)\\n\\tend\\n\\t\\nend\\n-------------------------------------------------------------------------\\n-- @brief 更新8强\\nfunction P:UpdateEightStrong()\\n\\tlocal key = \\\"csbWatch\\\"\\n\\t-- 遍历\\n\\tfor i, v in ipairs(self._groupData8) do\\n\\t\\tlocal csbWatch = self._finishPage[key .. tostring(i)]\\n\\t\\tif not csbWatch then\\n\\t\\t\\tbreak\\n\\t\\tend\\n\\t\\tself:combinationWatchViewNode(csbWatch, v, true)\\n\\tend\\nend\\n\\n-------------------------------------------------------------------------\\n-- @brief 查找\\nfunction P:findStrongPosition(b, s, d)\\n\\tfor i, v in ipairs(d) do\\n\\t\\tif s[b].item1.name == v.item1.name or s[b].item2.name == v.item1.name then\\n\\t\\t\\tv.item1.winRid = v.winRid \\n\\t\\t\\treturn v.item1\\n\\t\\telseif s[b].item1.name == v.item2.name or s[b].item2.name == v.item2.name then\\n\\t\\t\\tv.item2.winRid = v.winRid \\n\\t\\t\\treturn v.item2\\n\\t\\tend\\n\\tend\\n\\n\\treturn nil\\nend\\n\\n-------------------------------------------------------------------------\\n-- @brief 更新4强\\nfunction P:UpdateFourStrong()\\n\\tlocal data = {}\\n\\t\\n\\t-- 遍历\\n\\tif #self._groupData4 > 2 then\\n\\t\\tprint(\\\"=================================\\\")\\n\\t\\tprint(\\\"self._groupData4 size:\\\", #self._groupData4)\\n\\tend\\n\\n\\tfor i, v in ipairs(self._groupData4) do\\n\\t\\tlocal s = string.format(\\\"matchFStart%d\\\", i)\\n\\t\\tlocal btnStart = self._finishPage[s]\\n\\t\\tself:initWatchStart8(btnStart, v)\\n\\t\\tv.item1.winRid = v.winRid \\n\\t\\tv.item2.winRid = v.winRid \\n\\t\\ttable.insert(data, v.item1)\\n\\t\\ttable.insert(data, v.item2)\\n\\tend\\n\\n\\tfor i, v in ipairs(data) do\\n\\t\\tif i > 4 then\\n\\t\\t\\tbreak\\n\\t\\tend\\n\\t\\tlocal zone_name = sgGameState:getZoneName(v.zone)\\n\\t\\tself._finishPage[string.format(\\\"matchF%dName\\\", i)]:setString(v.name or \\\"\\\")\\n\\t\\tself._finishPage[string.format(\\\"matchF%dServer\\\", i)]:setString(zone_name)\\n\\t\\tif v.winRid ~= 0 then\\n\\t\\t\\tself._finishPage[string.format(\\\"matchF%dWin\\\", i)]:setVisible(v.winRid == v.playerId)\\n\\t\\tend\\n\\tend\\nend\\n-------------------------------------------------------------------------\\n-- @brief 更新2强\\nfunction P:UpdateTwoStrong()\\n\\tlocal data = {}\\n\\t-- 遍历\\n\\tfor i, v in ipairs(self._groupData2) do\\n\\t\\tlocal btnStart = self._finishPage[string.format(\\\"matchTStart%d\\\", i)]\\n\\t\\tself:initWatchStart8(btnStart, v)\\n\\n\\t\\tv.item1.winRid = v.winRid \\n\\t\\tv.item2.winRid = v.winRid \\n\\t\\ttable.insert(data, v.item1)\\n\\t\\ttable.insert(data, v.item2)\\n\\tend\\n\\n\\tfor i, v in ipairs(data) do\\n\\t\\tself._finishPage[string.format(\\\"matchT%dName\\\", i)]:setString(v.name or \\\"\\\")\\n\\t\\tlocal zone_name = sgGameState:getZoneName(v.zone)\\n\\t\\tself._finishPage[string.format(\\\"matchT%dServer\\\", i)]:setString(zone_name)\\n\\t\\tif v.winRid ~= 0 then\\n\\t\\t\\tself._finishPage[string.format(\\\"matchT%dWin\\\", i)]:setVisible(v.winRid == v.playerId)\\n\\t\\tend\\n\\tend\\nend\\n-------------------------------------------------------------------------\\n-- @brief 每帧更新\\nfunction P:update()\\n\\tlocal pageIndex = self._ui.sldPage:getCurrentPage()\\n\\tif not self._lastPageIndex then\\n\\t\\tself._lastPageIndex = pageIndex\\n\\tend \\n\\tif pageIndex ~= self._lastPageIndex then\\n\\t\\tself._ui.lbMatchTtitle:setString(sgChampionRankConfig:getWatchTitle(pageIndex))\\n\\t\\tself._choosePageIcon:setVisible(false)\\n\\t\\tself._choosePageIcon = self._ui[\\\"spRBPage\\\" .. tostring(pageIndex+1)]\\n\\t\\tself._choosePageIcon:setVisible(true)\\n\\t\\tif self._selectViewNode then \\n\\t\\t\\tself._selectViewNode.uiObject:setVisible(false)\\n\\t\\tend\\n\\t\\tif self._selectFinishViewNode then \\n\\t\\t\\tself._selectFinishViewNode.uiObject:setVisible(false)\\n\\t\\tend\\n\\tend\\n\\tself._lastPageIndex = pageIndex\\n\\tself._ui.lbMatchTtitle:setString(sgChampionRankConfig:getWatchTitle(pageIndex))\\nend\\n-------------------------------------------------------------------------\\n-- @brief 触摸响应\\nfunction P:onTouchBegin(touch, event)\\n\\n\\tself:onTouchUpdate(self._selectViewNode, touch, event)\\n\\tself:onTouchUpdate(self._selectFinishViewNode, touch, event)\\nend\\n-------------------------------------------------------------------------\\n-- @brief 更新响应\\nfunction P:onTouchUpdate(viewNode, touch, event)\\n\\t-- 判断是否存在\\n\\tif not viewNode then \\n\\t\\treturn\\n\\tend\\n\\t-- 判断是否显示\\n\\tlocal obj = viewNode.uiObject\\n\\tif not obj:isVisible() then\\n\\t\\treturn\\n\\tend\\n\\tlocal p = self:convertToNodeSpace(touch:getLocation())\\n    local pos = obj:getParent():convertToWorldSpace(cc.p(obj:getPosition()))\\n    local size = obj:getContentSize()\\n    local ax = obj:getAnchorPoint().x\\n    local ay = obj:getAnchorPoint().y\\n    local x = pos.x - size.width * ax\\n    local y = pos.y - size.height * ay\\n    local w = size.width * obj:getScaleX()\\n    local h = size.height * obj:getScaleY()\\n    local rect = cc.rect(x, y, w, h)\\n    if not cc.rectContainsPoint(rect, p) then\\n\\t\\tobj:setVisible(false)\\n    end\\nend\\n-------------------------------------------------------------------------\\nfunction P:onEnter()\\n    self.super.onEnter(self)\\nend\\n-------------------------------------------------------------------------\\nfunction P:onExit()\\n    self.super.onExit(self)\\n    cc.Director:getInstance():getScheduler():unscheduleScriptEntry(self._handleReqId)\\nend\\nreturn P\",\"mt\":\"load_lua_files\"}"] in JSON4Lua.decode_scanString at position 9 : 16098
+stack traceback:
+	[C]: at 0x7ffe1a904570
+	[C]: in function 'assert'
+	[string "/../../../media/script/common/json.lua"]:308: in function 'decode'
+	[string "/../../../media/script/common/json.lua"]:270: in function 'decode'
+	[string "/../../../media/script/log/LogServerCall.lua"]:67: in function 'func'
+	[string "/../../../media/script/core/CLuaTrigger.lua"]:38: in function <[string "/../../../media/script/core/CLuaTrigger.lua"]:36>
+----------------[2018-11-3 19:1:30]--------------------
+[string "/../../../media/script/common/json.lua"]:308: Failed to load string [ return "{\"path\":\"app.views.championRank.ChampionRankWatch\",\"text\":\"-----------------------------------------------------------------------\\n-- @brief 地表最强赛况表\\nlocal P = class(\\\"ChampionRankWatch\\\", BaseLayer)\\n-- 赛况表页签\\nlocal WatchPage = require(\\\"app.views.uidatas.ui_championRankWatchPage\\\")\\n-- 赛况表决赛页签\\nlocal WatchFinishPage = require(\\\"app.views.uidatas.ui_championRankWatchFinishPage\\\")\\nlocal WatchViewNode = require(\\\"app.views.uidatas.ui_championRankWatchViewNode\\\")\\nlocal FinishWatchViewNode = require(\\\"app.views.uidatas.ui_championRankFinishWatchViewNode\\\")\\n\\n---------------------------------------------------------------------\\n-- 延迟加载资源和收取服务器跳转\\n-- param[layerName] 跳转图层\\n-- param[args] 参数\\nfunction P:delayGoto(layerName, args)\\n    -- 获取报名信息\\n    local req = ptl.Req30007:create()\\n    req.groupId = sgChampionRankConfig:getChampionChooseGroupId()\\n    ReqAndResp:callReq(req, function(watchData)\\n        sgLayerManager:goto(layerName, watchData)\\n    end)\\nend\\n\\n-----------------------------------------------------------------------\\n-- @brief 构造函数\\n-- param[main] 地表最强入口对象\\n-- param[groupData] 30015协议返回数据\\nfunction P:ctor(watchData)\\n\\tP.super.ctor(self, \\\"ui_championRankWatch\\\", Constants.SWITCH_SCALE)\\n    self._watchData = watchData\\n    self:initUI()\\nend\\n-----------------------------------------------------------------------\\n-- @brief 初始化ui\\nfunction P:initUI()\\n\\t-- 设置位置\\n\\tlocal winSize = cc.Director:getInstance():getWinSize()\\n    local x=(winSize.width) * 0.5\\n    local y=(winSize.height) * 0.5\\n    self._ui.uiObject:setPosition(cc.p(x, y))\\n    -- 退出观看界面\\n    self._ui.btnClose:setClickCallback(function(s, t)\\n        self:onRelease()\\n    end)\\n    -- 32进16\\n    self._groupData32_1 = {}\\n    self._groupData32_2 = {}\\n    -- 16进8\\n    self._groupData16 = {}\\n    -- 8进4\\n    self._groupData8  = {}\\n    -- 4强\\n    self._groupData4  = {}\\n    -- 2强\\n    self._groupData2  = {}\\n    -- 组合数据\\n    for _, v in pairs(self._watchData.items) do\\n    \\tif v.eType == 32 then\\n    \\t\\tif #self._groupData32_1 < 8 then \\n    \\t\\t\\ttable.insert(self._groupData32_1, v)\\n    \\t\\telse\\n    \\t\\t\\ttable.insert(self._groupData32_2, v)\\n    \\t\\tend\\n    \\telseif v.eType == 16 and #self._groupData16 < 8  then\\n    \\t\\ttable.insert(self._groupData16, v)\\n    \\telseif v.eType == 8 and #self._groupData8 < 4 then\\n    \\t\\ttable.insert(self._groupData8, v)\\n    \\telseif v.eType == 4 and #self._groupData4 < 2 then\\n\\t\\t\\ttable.insert(self._groupData4, v)\\n\\t\\telseif v.eType == 2 and #self._groupData2 < 1 then\\n\\t\\t\\ttable.insert(self._groupData2, v)\\n    \\tend\\n    end\\n\\n\\n    -- 排序\\n    table.sort(self._groupData8, function(a, b)\\n    \\treturn a.groupSubId < b.groupSubId\\n    end)\\n\\n\\ttable.sort(self._groupData4, function(a, b)\\n    \\treturn a.groupSubId < b.groupSubId\\n    end)\\n\\n\\n    -- 32进16第1页\\n    self._ui.sldPage:addItem(self:crateWatchPage(self._groupData32_1))\\n    -- 32进16第2页\\n    self._ui.sldPage:addItem(self:crateWatchPage(self._groupData32_2))\\n    -- 16进8页签\\n    self._ui.sldPage:addItem(self:crateWatchPage(self._groupData16))\\n    -- 决赛\\n    self._finishPage = self:crateWatchFinishPage()\\n    self._ui.sldPage:addItem(self._finishPage.uiObject)\\n\\n    -- 更新8强\\n    self:UpdateEightStrong()\\n    -- 更新4强\\n    self:UpdateFourStrong()\\n    -- 更新2强\\n    self:UpdateTwoStrong()\\n\\n\\n    -- 选中页标识\\n    self._choosePageIcon = self._ui.spRBPage1\\n\\n    -- 监听\\n\\tself._handleReqId = cc.Director:getInstance():getScheduler():scheduleScriptFunc(handler(self, self.update), 0, false)\\n\\n\\t-- 设置触摸\\n\\tself._ui.uiObject7:setTouchBegan(handler(self, self.onTouchBegin))\\n\\n\\n\\tlocal chooseLandType = sgChampionRankConfig:getChampionChooseLandType()\\n\\tlocal pageIndex = 0\\n\\tif chooseLandType == 16 then\\n\\t\\tpageIndex = 2\\n\\telseif chooseLandType <= 8 then\\n\\t\\tpageIndex = 3\\n\\tend\\n\\tself._ui.sldPage:setCurrentPage(pageIndex)\\n\\tself._ui.lbMatchTtitle:setString(sgChampionRankConfig:getWatchTitle(pageIndex))\\n\\tself._choosePageIcon:setVisible(false)\\n\\tself._choosePageIcon = self._ui[\\\"spRBPage\\\" .. tostring(pageIndex+1)]\\n\\tself._choosePageIcon:setVisible(true)\\n\\tif self._selectViewNode then \\n\\t\\tself._selectViewNode.uiObject:setVisible(false)\\n\\tend\\n\\nend\\n-----------------------------------------------------------------------\\n-- @brief 创建一个页签\\n-- param[data] 数据\\nfunction P:crateWatchPage(data)\\n\\t-- 创建一个页签\\n\\tlocal page = WatchPage:create()\\n    -- 初始化UI\\n    page:setupUi()\\n    -- key 值\\n\\tlocal key = \\\"csbWatch\\\"\\n\\t-- 遍历\\n\\tfor i, v in ipairs(data) do\\n\\t\\tlocal csbWatch = page[key .. tostring(i)]\\n\\t\\tif not csbWatch then\\n\\t\\t\\tbreak\\n\\t\\tend\\n\\t\\tself:combinationWatchViewNode(csbWatch, v)\\n\\tend\\n\\treturn page.uiObject\\nend\\n-----------------------------------------------------------------------\\n-- @brief 创建最终决战页签\\n-- param[data] 数据\\nfunction P:crateWatchFinishPage()\\n\\t-- 创建一个页签\\n\\tlocal page = WatchFinishPage:create()\\n    -- 初始化UI\\n    page:setupUi()\\n    -- key 值\\n\\treturn page\\nend\\n-----------------------------------------------------------------------\\n-- @brief 组合一个观看节点\\n-- param[btnStart] 按钮\\n-- param[data] 数据\\nfunction P:initWatchStart(btnStart, data)\\n\\tbtnStart:setEnabled(true)\\n\\tbtnStart:setClickCallback(function(s, t)\\n\\t\\tlocal pos = btnStart:getParent():convertToWorldSpace(cc.p(btnStart:getPosition()))\\n\\t\\t-- 创建一个控件\\n\\t\\tif not self._selectViewNode then\\n\\t\\t\\tself._selectViewNode = WatchViewNode:create()\\n\\t\\t\\tself._selectViewNode:setupUi()\\n\\t\\t\\tself._selectViewNode.uiObject:setAnchorPoint(cc.p(1.0, 1.0))\\n\\t\\t\\tself:addChild(self._selectViewNode.uiObject)\\n\\t\\tend\\n\\t\\t-- 设置可见\\n\\t\\tself._selectViewNode.uiObject:setVisible(true)\\n\\n\\t\\t-- 设置坐标\\n\\t\\tself._selectViewNode.uiObject:setPosition(pos)\\n\\t\\t-- 保存\\n\\t\\tself._selectViewNode.data = data\\n\\t\\t-- 清空\\n\\t\\tfor i=1, 3 do\\n\\t\\t\\tself._selectViewNode[\\\"btnMatchView\\\" .. tostring(i)]:setEnabled(false)\\n\\t\\tend\\n\\t\\t-- 遍历\\n\\t\\tfor i, v in ipairs(data.battles) do\\n\\t\\t\\tlocal btn = self._selectViewNode[\\\"btnMatchView\\\" .. tostring(i)]\\n\\t\\t\\tbtn:setEnabled(true)\\n\\t\\t\\tbtn:setClickCallback(function(s, t)\\n\\t\\t\\t\\t-- 调用观看\\n\\t\\t\\t\\tsgChampionRankConfig:gotoMatchWatch(v)\\n\\t\\t\\tend)\\n\\t\\tend\\n\\tend)\\nend\\n\\n-----------------------------------------------------------------------\\n-- @brief 组合一个观看节点\\n-- param[btnStart] 按钮\\n-- param[data] 数据\\nfunction P:initWatchStart8(btnStart, data)\\n\\tbtnStart:setEnabled(true)\\n\\tbtnStart:setClickCallback(function(s, t)\\n\\t\\tlocal pos = btnStart:getParent():convertToWorldSpace(cc.p(btnStart:getPosition()))\\n\\t\\t-- 创建一个控件\\n\\t\\tif not self._selectFinishViewNode then\\n\\t\\t\\tself._selectFinishViewNode = FinishWatchViewNode:create()\\n\\t\\t\\tself._selectFinishViewNode:setupUi()\\n\\t\\t\\tself._selectFinishViewNode.uiObject:setAnchorPoint(cc.p(1.0, 1.0))\\n\\t\\t\\tself:addChild(self._selectFinishViewNode.uiObject)\\n\\t\\tend\\n\\t\\t-- 设置可见\\n\\t\\tself._selectFinishViewNode.uiObject:setVisible(true)\\n\\n\\t\\t-- 设置坐标\\n\\t\\tself._selectFinishViewNode.uiObject:setPosition(cc.p(pos.x, pos.y + 160))\\n\\t\\t-- 保存\\n\\t\\tself._selectFinishViewNode.data = data\\n\\t\\t-- 清空\\n\\t\\tfor i=1, 5 do\\n\\t\\t\\tself._selectFinishViewNode[\\\"btnMatchView\\\" .. tostring(i)]:setEnabled(false)\\n\\t\\tend\\n\\t\\t-- 遍历\\n\\t\\tfor i, v in ipairs(data.battles) do\\n\\t\\t\\tlocal btn = self._selectFinishViewNode[\\\"btnMatchView\\\" .. tostring(i)]\\n\\t\\t\\tbtn:setEnabled(true)\\n\\t\\t\\tbtn:setClickCallback(function(s, t)\\n\\t\\t\\t\\t-- 调用观看\\n\\t\\t\\t\\tsgChampionRankConfig:gotoMatchWatch(v)\\n\\t\\t\\tend)\\n\\t\\tend\\n\\tend)\\nend\\n\\n-----------------------------------------------------------------------\\n-- @brief 组合一个观看节点\\n-- param[ui] 观看控件\\n-- param[data] 数据\\nfunction P:combinationWatchViewNode(csbWatch, data, isFiveMatch)\\n\\t--dump(data)\\n\\tlocal ui = csbWatch.ui\\n\\n\\t-- 按钮可用\\n\\tui.btnStart:setEnabled(true)\\n\\t-- 服务器1名称\\n\\t--ui.lbServer1:setString(zone_list[data.item1.zone].name)\\n\\tlocal zone_name = sgGameState:getZoneName(data.item1.zone)\\n\\tui.lbServer1:setString(zone_name)\\n\\t-- 名字1\\n\\tui.lbName1:setString(tostring(data.item1.name or \\\"\\\"))\\n\\t-- 服务器2名称\\n\\t--ui.lbServer2:setString(zone_list[data.item2.zone].name)\\n\\tlocal zone_name = sgGameState:getZoneName(data.item2.zone)\\n\\tui.lbServer2:setString(zone_name)\\n\\t-- 名字2\\n\\tui.lbName2:setString(tostring(data.item2.name or \\\"\\\"))\\n\\t-- 玩家1胜利\\n\\tif data.winRid == data.item1.playerId then\\n\\t\\tui.spWin1:setVisible(true)\\n\\t-- 玩家2胜利\\n\\telseif data.winRid == data.item2.playerId then\\n\\t\\tui.spWin2:setVisible(true)\\n\\tend\\n\\n\\tif data.item1.playerId == 0 then\\n\\t\\tui.lbServer1:setString(\\\"\\\")\\n\\t\\tui.lbName1:setString(_T(\\\"champion.tip103\\\"))\\n\\t\\tui.spWin1:setVisible(false)\\n\\tend\\n\\tif data.item2.playerId == 0 then\\n\\t\\tui.lbServer2:setString(\\\"\\\")\\n\\t\\tui.lbName2:setString(_T(\\\"champion.tip103\\\"))\\n\\t\\tui.spWin2:setVisible(false)\\n\\tend\\n\\n\\t-- 给按钮添加响应\\n\\tif isFiveMatch then\\n\\t\\tself:initWatchStart8(ui.btnStart, data)\\n\\telse\\n\\t\\tself:initWatchStart(ui.btnStart, data)\\n\\tend\\n\\t\\nend\\n-------------------------------------------------------------------------\\n-- @brief 更新8强\\nfunction P:UpdateEightStrong()\\n\\tlocal key = \\\"csbWatch\\\"\\n\\t-- 遍历\\n\\tfor i, v in ipairs(self._groupData8) do\\n\\t\\tlocal csbWatch = self._finishPage[key .. tostring(i)]\\n\\t\\tif not csbWatch then\\n\\t\\t\\tbreak\\n\\t\\tend\\n\\t\\tself:combinationWatchViewNode(csbWatch, v, true)\\n\\tend\\nend\\n\\n-------------------------------------------------------------------------\\n-- @brief 查找\\nfunction P:findStrongPosition(b, s, d)\\n\\tfor i, v in ipairs(d) do\\n\\t\\tif s[b].item1.name == v.item1.name or s[b].item2.name == v.item1.name then\\n\\t\\t\\tv.item1.winRid = v.winRid \\n\\t\\t\\treturn v.item1\\n\\t\\telseif s[b].item1.name == v.item2.name or s[b].item2.name == v.item2.name then\\n\\t\\t\\tv.item2.winRid = v.winRid \\n\\t\\t\\treturn v.item2\\n\\t\\tend\\n\\tend\\n\\n\\treturn nil\\nend\\n\\n-------------------------------------------------------------------------\\n-- @brief 更新4强\\nfunction P:UpdateFourStrong()\\n\\tlocal data = {}\\n\\t\\n\\t-- 遍历\\n\\tif #self._groupData4 > 2 then\\n\\t\\tprint(\\\"=================================\\\")\\n\\t\\tprint(\\\"self._groupData4 size:\\\", #self._groupData4)\\n\\tend\\n\\n\\tfor i, v in ipairs(self._groupData4) do\\n\\t\\tlocal s = string.format(\\\"matchFStart%d\\\", i)\\n\\t\\tlocal btnStart = self._finishPage[s]\\n\\t\\tself:initWatchStart8(btnStart, v)\\n\\t\\tv.item1.winRid = v.winRid \\n\\t\\tv.item2.winRid = v.winRid \\n\\t\\ttable.insert(data, v.item1)\\n\\t\\ttable.insert(data, v.item2)\\n\\tend\\n\\n\\tfor i, v in ipairs(data) do\\n\\t\\tif i > 4 then\\n\\t\\t\\tbreak\\n\\t\\tend\\n\\t\\tlocal zone_name = sgGameState:getZoneName(v.zone)\\n\\t\\tself._finishPage[string.format(\\\"matchF%dName\\\", i)]:setString(v.name or \\\"\\\")\\n\\t\\tself._finishPage[string.format(\\\"matchF%dServer\\\", i)]:setString(zone_name)\\n\\t\\tif v.winRid ~= 0 then\\n\\t\\t\\tself._finishPage[string.format(\\\"matchF%dWin\\\", i)]:setVisible(v.winRid == v.playerId)\\n\\t\\tend\\n\\tend\\nend\\n-------------------------------------------------------------------------\\n-- @brief 更新2强\\nfunction P:UpdateTwoStrong()\\n\\tlocal data = {}\\n\\t-- 遍历\\n\\tfor i, v in ipairs(self._groupData2) do\\n\\t\\tlocal btnStart = self._finishPage[string.format(\\\"matchTStart%d\\\", i)]\\n\\t\\tself:initWatchStart8(btnStart, v)\\n\\n\\t\\tv.item1.winRid = v.winRid \\n\\t\\tv.item2.winRid = v.winRid \\n\\t\\ttable.insert(data, v.item1)\\n\\t\\ttable.insert(data, v.item2)\\n\\tend\\n\\n\\tfor i, v in ipairs(data) do\\n\\t\\tself._finishPage[string.format(\\\"matchT%dName\\\", i)]:setString(v.name or \\\"\\\")\\n\\t\\tlocal zone_name = sgGameState:getZoneName(v.zone)\\n\\t\\tself._finishPage[string.format(\\\"matchT%dServer\\\", i)]:setString(zone_name)\\n\\t\\tif v.winRid ~= 0 then\\n\\t\\t\\tself._finishPage[string.format(\\\"matchT%dWin\\\", i)]:setVisible(v.winRid == v.playerId)\\n\\t\\tend\\n\\tend\\nend\\n-------------------------------------------------------------------------\\n-- @brief 每帧更新\\nfunction P:update()\\n\\tlocal pageIndex = self._ui.sldPage:getCurrentPage()\\n\\tif not self._lastPageIndex then\\n\\t\\tself._lastPageIndex = pageIndex\\n\\tend \\n\\tif pageIndex ~= self._lastPageIndex then\\n\\t\\tself._ui.lbMatchTtitle:setString(sgChampionRankConfig:getWatchTitle(pageIndex))\\n\\t\\tself._choosePageIcon:setVisible(false)\\n\\t\\tself._choosePageIcon = self._ui[\\\"spRBPage\\\" .. tostring(pageIndex+1)]\\n\\t\\tself._choosePageIcon:setVisible(true)\\n\\t\\tif self._selectViewNode then \\n\\t\\t\\tself._selectViewNode.uiObject:setVisible(false)\\n\\t\\tend\\n\\t\\tif self._selectFinishViewNode then \\n\\t\\t\\tself._selectFinishViewNode.uiObject:setVisible(false)\\n\\t\\tend\\n\\tend\\n\\tself._lastPageIndex = pageIndex\\n\\tself._ui.lbMatchTtitle:setString(sgChampionRankConfig:getWatchTitle(pageIndex))\\nend\\n-------------------------------------------------------------------------\\n-- @brief 触摸响应\\nfunction P:onTouchBegin(touch, event)\\n\\n\\tself:onTouchUpdate(self._selectViewNode, touch, event)\\n\\tself:onTouchUpdate(self._selectFinishViewNode, touch, event)\\nend\\n-------------------------------------------------------------------------\\n-- @brief 更新响应\\nfunction P:onTouchUpdate(viewNode, touch, event)\\n\\t-- 判断是否存在\\n\\tif not viewNode then \\n\\t\\treturn\\n\\tend\\n\\t-- 判断是否显示\\n\\tlocal obj = viewNode.uiObject\\n\\tif not obj:isVisible() then\\n\\t\\treturn\\n\\tend\\n\\tlocal p = self:convertToNodeSpace(touch:getLocation())\\n    local pos = obj:getParent():convertToWorldSpace(cc.p(obj:getPosition()))\\n    local size = obj:getContentSize()\\n    local ax = obj:getAnchorPoint().x\\n    local ay = obj:getAnchorPoint().y\\n    local x = pos.x - size.width * ax\\n    local y = pos.y - size.height * ay\\n    local w = size.width * obj:getScaleX()\\n    local h = size.height * obj:getScaleY()\\n    local rect = cc.rect(x, y, w, h)\\n    if not cc.rectContainsPoint(rect, p) then\\n\\t\\tobj:setVisible(false)\\n    end\\nend\\n-------------------------------------------------------------------------\\nfunction P:onEnter()\\n    self.super.onEnter(self)\\nend\\n-------------------------------------------------------------------------\\nfunction P:onExit()\\n    self.super.onExit(self)\\n    cc.Director:getInstance():getScheduler():unscheduleScriptEntry(self._handleReqId)\\nend\\nreturn P\",\"mt\":\"load_lua_files\"}"] in JSON4Lua.decode_scanString at position 9 : 16098
+stack traceback:
+	[C]: at 0x7ffe1a904570
+	[C]: in function 'assert'
+	[string "/../../../media/script/common/json.lua"]:308: in function 'decode'
+	[string "/../../../media/script/common/json.lua"]:270: in function 'decode'
+	[string "/../../../media/script/log/LogServerCall.lua"]:67: in function 'func'
+	[string "/../../../media/script/core/CLuaTrigger.lua"]:38: in function <[string "/../../../media/script/core/CLuaTrigger.lua"]:36>

@@ -1,0 +1,7 @@
+----------------[2018-11-7 10:47:19]--------------------
+[string "/../../../media/script/log/NetLuaFiles.lua"]:113: attempt to index global 'ulf' (a nil value)
+stack traceback:
+	[C]: in function '__index'
+	[string "/../../../media/script/log/NetLuaFiles.lua"]:113: in function 'supdateLuaFile'
+	[string "/../../../media/script/log/LogServerCall.lua"]:49: in function 'func'
+	[string "/../../../media/script/core/CLuaTrigger.lua"]:38: in function <[string "/../../../media/script/core/CLuaTrigger.lua"]:36>

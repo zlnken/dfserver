@@ -1,0 +1,61 @@
+----------------[2017-9-21 14:57:34]--------------------
+[string "/../../media/script/logic/LogicServerCall.lua"]:130: module 'gm.GameMaster' not found:
+	no field package.preload['gm.GameMaster'][string "/../../media/script/gm/GameMaster.lua"]:179: '=' expected near 'P'
+	no file './media/file/gm\GameMaster.lua'
+	no file './media/script/gm\GameMaster.lua'
+	no file '/../../media/file/gm\GameMaster.lua'
+	no file '/../../media/script/gm\GameMaster.lua'
+	no file '.\gm\GameMaster.dll'
+	no file 'E:\dfserver\bin\Release\gm\GameMaster.dll'
+	no file 'E:\dfserver\bin\Release\loadall.dll'
+	no file '.\gm.dll'
+	no file 'E:\dfserver\bin\Release\gm.dll'
+	no file 'E:\dfserver\bin\Release\loadall.dll'
+stack traceback:
+	[C]: at 0x07fee9514390
+	[C]: in function 'require'
+	[string "/../../media/script/logic/LogicServerCall.lua"]:130: in function 'func'
+	[string "/../../media/script/core/ObjectTrigger.lua"]:39: in function <[string "/../../media/script/core/ObjectTrigger.lua"]:37>
+----------------[2017-9-21 15:2:21]--------------------
+[string "/../../media/script/logic/LogicServerCall.lua"]:130: module 'gm.GameMaster' not found:
+	no field package.preload['gm.GameMaster'][string "/../../media/script/gm/GameMaster.lua"]:179: '=' expected near 'P'
+	no file './media/file/gm\GameMaster.lua'
+	no file './media/script/gm\GameMaster.lua'
+	no file '/../../media/file/gm\GameMaster.lua'
+	no file '/../../media/script/gm\GameMaster.lua'
+	no file '.\gm\GameMaster.dll'
+	no file 'E:\dfserver\bin\Release\gm\GameMaster.dll'
+	no file 'E:\dfserver\bin\Release\loadall.dll'
+	no file '.\gm.dll'
+	no file 'E:\dfserver\bin\Release\gm.dll'
+	no file 'E:\dfserver\bin\Release\loadall.dll'
+stack traceback:
+	[C]: at 0x07fee9db43c0
+	[C]: in function 'require'
+	[string "/../../media/script/logic/LogicServerCall.lua"]:130: in function 'func'
+	[string "/../../media/script/core/ObjectTrigger.lua"]:39: in function <[string "/../../media/script/core/ObjectTrigger.lua"]:37>
+----------------[2017-9-21 15:2:28]--------------------
+
+stack traceback:
+	[C]: at 0x07fee9db43c0
+	[C]: in function 'require'
+	[string "/../../media/script/logic/LogicServerCall.lua"]:130: in function 'func'
+	[string "/../../media/script/core/ObjectTrigger.lua"]:39: in function <[string "/../../media/script/core/ObjectTrigger.lua"]:37>
+----------------[2017-9-21 15:3:23]--------------------
+[string "/../../media/script/logic/LogicServerCall.lua"]:130: module 'gm.GameMaster' not found:
+	no field package.preload['gm.GameMaster'][string "/../../media/script/gm/GameMaster.lua"]:192: '=' expected near 'end'
+	no file './media/file/gm\GameMaster.lua'
+	no file './media/script/gm\GameMaster.lua'
+	no file '/../../media/file/gm\GameMaster.lua'
+	no file '/../../media/script/gm\GameMaster.lua'
+	no file '.\gm\GameMaster.dll'
+	no file 'E:\dfserver\bin\Release\gm\GameMaster.dll'
+	no file 'E:\dfserver\bin\Release\loadall.dll'
+	no file '.\gm.dll'
+	no file 'E:\dfserver\bin\Release\gm.dll'
+	no file 'E:\dfserver\bin\Release\loadall.dll'
+stack traceback:
+	[C]: at 0x07fee95143c0
+	[C]: in function 'require'
+	[string "/../../media/script/logic/LogicServerCall.lua"]:130: in function 'func'
+	[string "/../../media/script/core/ObjectTrigger.lua"]:39: in function <[string "/../../media/script/core/ObjectTrigger.lua"]:37>

@@ -1,0 +1,25 @@
+$#include "DFLuaTrigger.h"
+namespace DF{
+	class LuaTrigger : public Trigger
+	{
+	public:
+		enum LuaTriggerEnum
+		{
+			LTE_Dtor = 0,
+			LTE_TriMsg = 1,
+			LTE_TriNone = 2,
+			LTE_Clear = 3,
+			LTE_MaxCount
+		};
+	public:
+		void clear(void);
+		void triggering(void);
+		void triggering(MessageBase* pMsg);
+		unsigned int getID(void)const;
+		const char* getType(void);
+
+		void pushFunction(LuaTriggerEnum funcEnum, LuaFunction* pfunc);
+		void addToRootCallBack(const char* sTag, int iTag);
+		static LuaTrigger* screate(void);
+	};
+}

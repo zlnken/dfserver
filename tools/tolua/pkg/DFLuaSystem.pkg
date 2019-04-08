@@ -1,0 +1,23 @@
+$#include "DFLuaSystem.h"
+namespace DF{
+class LuaSystem
+{
+public:
+	static LuaSystem* instancePtr(void);
+	
+	void setDebug(bool bDebug);
+	void doString(const char* pStr);
+	void doFile(const char* sFileName);
+	void reload(const char* sModuleFileName);
+
+	void enableReturn(const char* file);
+	void disableReturn(void);
+	const char* getRootPath(void)const;
+	
+	void setIsRunScriptMsg(bool isRunScriptMsg);
+	const char* getRunScirptPrint(void)const;
+	void loadFiles(const char* path);
+	void loadAllFiles(const char* strFolderPath, const char* curPath);
+	BaseServer* getServer(void)const;
+};
+}

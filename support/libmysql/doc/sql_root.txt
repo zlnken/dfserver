@@ -1,0 +1,12 @@
+mysql>use mysql;
+
+mysql>update user set host = '%'   where user ='root';
+
+mysql>flush privileges;
+
+mysql>select 'host','user' from user where user='root';
+
+mysql>quit
+
+#环境变量配置
+export PATH=${PATH}:/usr/local/mysql/bin:/usr/local/mysql/support-files

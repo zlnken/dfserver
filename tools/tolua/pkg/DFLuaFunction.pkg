@@ -1,0 +1,9 @@
+$#include "DFLuaFunction.h"
+namespace DF{
+	class LuaFunction
+	{
+	public:
+		static LuaFunction* screate(void);
+		static LuaFunction* screate(const char* sName);
+	};
+}
